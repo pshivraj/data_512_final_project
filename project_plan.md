@@ -2,7 +2,7 @@
 Project Plan
 
 
-References:
+## References:
 Papers and articles that inspired me for the analysis and work:
 
 [Wage Inequality in Football](https://sites.duke.edu/wcwp/2018/05/03/wage-inequality-in-football/)
