@@ -1,11 +1,14 @@
 
 # Final Project Plan - Racial Salary Discrimination in Major League Baseball
-Purshottam 
+
+Purshottam Shivraj
 DATA 512 (Human-Centered Data Science)
-University of Washington, Fall 2017
+University of Washington, Fall 2018
 ## Introduction
 
 ## Data
+Data Attribute
+Data Preparation
 
 ## Research Questions
 
