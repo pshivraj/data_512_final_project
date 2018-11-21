@@ -18,14 +18,52 @@ The ```dataverse_files.zip``` contains zipped file called ```Original Data.zip``
 This contains primarily two datasets:
 
    * Contract Data:  These are present in the form of ```csv``` files for each year 2012 till 2015.
-    This is present as set of files following nomenclature of : ```[year]_Contract_Data.csv```
+    These are present as set of files following nomenclature of : ```[year]_Contract_Data.csv```
     
   
    * WAR Data: WAR is defined as Wins Above Replacement which means A single number that presents the number of wins the player added
     to the team above what a replacement player (think AAA or AAAA) would add. This definition is taken from [Baseball Reference](https://www.baseball-reference.com/leagues/MLB/2012-value-batting.shtml).
-    This is present as set of files following nomenclature of : ```IMPORTABLE_leagues_MLB_[year]-value-batting_players_value_batting.csv```
+    These are present as set of files following nomenclature of : ```IMPORTABLE_leagues_MLB_[year]-value-batting_players_value_batting.csv```
     
 ### Contract Data
+
+This data contains player specific information. Each players attributes including preffered position of play, I am planning to use  transfer salary and Age attribute of the data from this data and join with other data-set on ```Player```(name) to generate final data set.
+
+The Data is available in file ```Contract Data.zip``` as excel workbook for each year starting 2012 till 2015, with each file around ~50KB in file size making it 2MB in total containing information for 776 players.
+
+Following is the Data dictionary for the data-set:
+
+| Feature    |  Data_type |  Description |
+|---|---|---|
+| PLAYER  | text  | This variable comprises all players’ names.  |
+| POS   | text  | This variable indicates each player’s position as an abbreviation  |
+| AGE  | int  | This variable indicates the age of a player at the conclusion of the season. Its units are years  |
+| STATUS  | text  | This variable indicates a player’s contractual status and can be either Signed, FA (free agent), or Retired  |
+| 2012 TEAM  | text  | Team for which the player was affiliated to in year 2012  |
+| NEW TEAM  | text  | New team with which the player is contracted  |
+|  YRS |  int | This variable indicates the length of a player’s contract. It is measured in years   |
+|  RK | int  |   |
+|  DOLLARS | int  | This variable indicates the total amount of money the contract is worth and is measured in dollars  |
+
+### WAR Data
+
+This data contains player specific information. Each players attributes including preffered position of play, I am planning to use  transfer salary and Age attribute of the data from this data and join with other data-set on ```Player```(name) to generate final data set.
+
+The Data is available in file ```Contract Data.zip``` as excel workbook for each year starting 2012 till 2015, with each file around ~50KB in file size making it 2MB in total containing information for 776 players.
+
+Following is the Data dictionary for the data-set:
+
+| Feature    |  Data_type |  Description |
+|---|---|---|
+| PLAYER  | text  | This variable comprises all players’ names.  |
+| POS   | text  | This variable indicates each player’s position as an abbreviation  |
+| AGE  | int  | This variable indicates the age of a player at the conclusion of the season. Its units are years  |
+| STATUS  | text  | This variable indicates a player’s contractual status and can be either Signed, FA (free agent), or Retired  |
+| 2012 TEAM  | text  | Team for which the player was affiliated to in year 2012  |
+| NEW TEAM  | text  | New team with which the player is contracted  |
+|  YRS |  int | This variable indicates the length of a player’s contract. It is measured in years   |
+|  RK | int  |   |
+|  DOLLARS | int  | This variable indicates the total amount of money the contract is worth and is measured in dollars  |
 
 
 Data Preparation
