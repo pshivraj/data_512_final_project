@@ -29,7 +29,7 @@ This contains primarily two datasets:
 
 This data contains player specific information. Each players attributes including preffered position of play, I am planning to use  transfer salary and Age attribute of the data from this data and join with other data-set on ```Player```(name) to generate final data set.
 
-The Data is available in file ```Contract Data.zip``` as excel workbook for each year starting 2012 till 2015, with each file around ~50KB in file size making it 2MB in total containing information for 776 players.
+The Data is available in file ```Contract Data.zip``` as excel workbook for each year starting 2012 till 2015, with each file around ~50KB in file size making it 200KB in total containing information for 776 players.
 
 Following is the Data dictionary for the data-set:
 
@@ -42,14 +42,15 @@ Following is the Data dictionary for the data-set:
 | 2012 TEAM  | text  | Team for which the player was affiliated to in year 2012  |
 | NEW TEAM  | text  | New team with which the player is contracted  |
 |  YRS |  int | This variable indicates the length of a player’s contract. It is measured in years   |
-|  RK | int  |   |
+|  RK | int  | Ranked  |
 |  DOLLARS | int  | This variable indicates the total amount of money the contract is worth and is measured in dollars  |
 
 ### WAR Data
 
-This data contains player specific information. Each players attributes including preffered position of play, I am planning to use  transfer salary and Age attribute of the data from this data and join with other data-set on ```Player```(name) to generate final data set.
+This data contains player specific information. This data is pretty exhaustive in terms of players gameplay and contribution towards teams perfromance. Though it has lot of perfromance metric to judge players contribution towards a team victory, I am planning to use
+```WAR``` Wins Above Replacement as a criteria to measure players performance metric and would try to analyze it with ```Race``` data to see how fair is the salary structure.
 
-The Data is available in file ```Contract Data.zip``` as excel workbook for each year starting 2012 till 2015, with each file around ~50KB in file size making it 2MB in total containing information for 776 players.
+The Data is available in file ```Original Data.zip``` as excel workbook for each year starting 2010 till 2015, with each file around ~200KB in file size making it 1.2MB in total containing information for 1251 players.
 
 Following is the Data dictionary for the data-set:
 
@@ -69,7 +70,7 @@ Following is the Data dictionary for the data-set:
 | WAA  | text  | Wins Above Avg |
 |  Rrep |  int | Runs from Replacement Level  |
 |  RAR | int  | Runs above Replacement Level  |
-|  WAR ¾ | int  | Wins Above Replacement  |  
+|  WAR | int  | Wins Above Replacement  |  
 | waaWL%  | text  | Win-Loss% w/ Avg. Team  |
 | 162WL%  | text  | Win-Loss% w/ Avg. Team Season |
 | oWAR  | text  | Offensive Wins Above Replacement (everything but Fielding) |
@@ -79,12 +80,41 @@ Following is the Data dictionary for the data-set:
 |  Acquired  |  int | How was player transfer took place  |
 |  Pos Summary  | int  | Fielding position for the player  |
 
-Data Preparation
+For more detailed description for the fields one can lookup from glossary section - [Baseball-reference](https://www.baseball-reference.com/leagues/MLB/2015-value-batting.shtml).
+
+### Race Data
+
+This data contains player's race information. I would be joining this data with Contract Data and WAR data to create my final data-set
+
+The Data is available in file ```Original Data.zip``` as excel workbook as ```Player_race.xlsx``` 
+
+Following is the Data dictionary for the data-set:
+
+| Feature    |  Data_type |  Description |
+|---|---|---|
+| Name  | text  | Player's names   |
+| Race   | text  | This variable indicates the race of a player   |
+
+Race abbreviation mapping - ```“A” for Asian, “B” for black, “H” for Hispanic, and “W” for white```.
+
+### Potential Data Limitations
+
+Based on my prelimary look at the data-set:
+
+  * ```salary``` variable has some missing values in the form of ```DOLLARS=="--"```
+  * ```RK``` ranking variable too has missing value as ```NR```.
+  * Race data is only available for 150 players thus analysis is limited to those players.
+ 
+I might reach try to extend the Race data from 150 players to higher number using information from internet, but I am not sure as to how accurate i might be so this is an activity for later.
+Other limitations may be present but I would be in a better situation to explore them as I dive into the data.
+
+###  Data Preparation and Tools 
+
+Final data-set would be prepared by combining ```Contract data```, ``` WAR data``` and ```Race data``` using Names of player's as primary key.
+Tools- I plan to use python to merge all data files together and intial filtering of data-set owing to missing values and incomplete information. I am planning to generate a Ipython notebook which would be walkthrough of the steps involved from data-cleaning, EDA and finally data modelling.
 
 ## Research Questions
 
-
-## Potential Data Limitations
 
 ## References:
 Papers and articles that inspired me for the analysis and work:
