@@ -9,6 +9,8 @@ University of Washington, Fall 2018
 
 ## Introduction
 
+
+
 ## Data
 
 The primary data for this analysis comes from [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZUMXXL) licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/).
@@ -105,8 +107,8 @@ Based on my prelimary look at the data-set:
   * ```RK``` ranking variable too has missing value as ```NR```.
   * Race data is only available for 150 players thus analysis is limited to those players.
  
-I might reach try to extend the Race data from 150 players to higher number using information from internet, but I am not sure as to how accurate i might be so this is an activity for later.
-Other limitations may be present but I would be in a better situation to explore them as I dive into the data.
+I might reach try to extend the Race data from 150 players to higher number using information from internet, but I am not sure as to how accurate i might be so this is an activity for later. I do have other data soruces with Information around players Race but owing to inadequate licnese information around them I am skeptical to use. I'll try working with the providers to get the consent and probably use it eventually.
+Other limitations may be present but I would be in a better situation to explore them as I explore the data further.
 
 ###  Data Preparation and Tools 
 
@@ -115,6 +117,12 @@ Tools- I plan to use python to merge all data files together and intial filterin
 
 ## Research Questions
 
+I am not sure if I have enough data points owing to using just datasets with proper license to accurately quantify my findings but I am mostly interested exploring following questions:
+   * Firstly, I want to explore how wage structure is distributed across various positions and attribute for a player, this is just to get aquianted with what governs evaluation criteria. 
+   * Secondly, I would like to analyze if there exists a disparity in how Players with similar skills and impact valued in the Sports based on thier race?
+   * Finally, I see that with the ever increasing emphasis on leveraging data to answer decisin making, I am sure sports industry is also untouched. If historical valuation are the training data for Analytics in the sports industry I am curious if creating a preditive model to help suggest what salary a player should be offered is affected by where he comes from? I am looking to build a predcitive model with data-set I have and see what variables comes as the most influential predictors in determining the wages.
+   
+Though I might have limited data-set which is not exhaustive enough to generalize things, my effort is to understand if there is a sub-sample of data that can be used to infer or explain any bias existing in the Sports industry(Baseball in this case).
 
 ## References:
 Papers and articles that inspired me for the analysis and work:
