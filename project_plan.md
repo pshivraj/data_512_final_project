@@ -35,7 +35,7 @@ Following is the Data dictionary for the data-set:
 
 | Feature    |  Data_type |  Description |
 |---|---|---|
-| PLAYER  | text  | This variable comprises all players’ names.  |
+| PLAYER  | text  | Player's names  |
 | POS   | text  | This variable indicates each player’s position as an abbreviation  |
 | AGE  | int  | This variable indicates the age of a player at the conclusion of the season. Its units are years  |
 | STATUS  | text  | This variable indicates a player’s contractual status and can be either Signed, FA (free agent), or Retired  |
@@ -55,16 +55,29 @@ Following is the Data dictionary for the data-set:
 
 | Feature    |  Data_type |  Description |
 |---|---|---|
-| PLAYER  | text  | This variable comprises all players’ names.  |
-| POS   | text  | This variable indicates each player’s position as an abbreviation  |
-| AGE  | int  | This variable indicates the age of a player at the conclusion of the season. Its units are years  |
-| STATUS  | text  | This variable indicates a player’s contractual status and can be either Signed, FA (free agent), or Retired  |
-| 2012 TEAM  | text  | Team for which the player was affiliated to in year 2012  |
-| NEW TEAM  | text  | New team with which the player is contracted  |
-|  YRS |  int | This variable indicates the length of a player’s contract. It is measured in years   |
-|  RK | int  |   |
-|  DOLLARS | int  | This variable indicates the total amount of money the contract is worth and is measured in dollars  |
-
+| Name  | text  | Player's names   |
+| Age   | text  | This variable indicates the age of a player at the conclusion of the season. Its units are years  |
+| Tm  | int  | Team Name  |
+| G  | text  | Games Played or Pitched  |
+| PA  | text  | Plate Appearances  |
+| Rbat  | text  | Runs Batting  |
+|  Rbaser |  int | Runs from Baserunning  |
+|  Rdp | int  |  Runs Grounded into Double Plays |
+|  Rfield | int  | Runs from Fielding |
+| Rpos  | text  | Runs from Positional Scarcity  |
+| RAA  | text  | Runs better than Avg  |
+| WAA  | text  | Wins Above Avg |
+|  Rrep |  int | Runs from Replacement Level  |
+|  RAR | int  | Runs above Replacement Level  |
+|  WAR ¾ | int  | Wins Above Replacement  |  
+| waaWL%  | text  | Win-Loss% w/ Avg. Team  |
+| 162WL%  | text  | Win-Loss% w/ Avg. Team Season |
+| oWAR  | text  | Offensive Wins Above Replacement (everything but Fielding) |
+|  dWAR  |  int |  Defensive Wins Above Replacement for position players |
+|  oRAR  | int  | Offensive Runs above Replacement Level |
+|  Salary | int  | This variable indicates the total salary measured in dollars  | 
+|  Acquired  |  int | How was player transfer took place  |
+|  Pos Summary  | int  | Fielding position for the player  |
 
 Data Preparation
 
