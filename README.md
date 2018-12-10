@@ -133,6 +133,26 @@ Following is the Data dictionary for the data-set:
 
 Race abbreviation mapping - ```“A” for Asian, “B” for black, “H” for Hispanic, and “W” for white```.
 
+
+### State Race Data
+
+This data contains the United States race distribution. I would be joining this data with Contract Data and WAR data to create my final data-set which would contain for each player his team and corresponding state's demographic distribution.
+
+The Data is available as excel workbook as ```state_race_distribution.xlsx``` 
+
+Following is the Data dictionary for the data-set:
+
+| Feature    |  Data_type |  Description |
+|---|---|---|
+| State  | text  | United states Name  |
+| Population   | text  | Total population for the state   |
+| Wites  | text  | Ratio of whites to the total population   |
+| Non-whites   | text  | Ratio of non-whites to the total population   |
+
+Data is imported in excel from [ wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_United_States) which has whites population for a state, non-whites is defined as sum of all other groups except for whites.
+
+Finally ```state_race_data.xlsx``` is generated from ```state_race_distribution.xlsx```  by adding team name to the data set. The team and its corresponding state information is gathered from [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Baseball/Team_abbreviations).
+
 # License
 This assignment code and Data is released under the [MIT License](https://github.com/pshivraj/data_512_final_project/blob/master/LICENSE).
 
@@ -140,6 +160,6 @@ This assignment code and Data is released under the [MIT License](https://github
 The primary data for this analysis comes from Dataverse licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/).
 The data-set can be downloaded from [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZUMXXL) in the form of zipped files from the above-mentioned link as ```dataverse_files.zip```, which contains the data-set used in this project and all the files contained in the zip file comes under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/).
 
-Additional Data ```Data/state_race_distribution.xlsx``` is taken from [ wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_United_States) licnesed under [Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+Additional Data ```Data/state_race_distribution.xlsx``` and ```state_race_data.xlsx``` taken from [ wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_United_States) and [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Baseball/Team_abbreviations) licnesed under [Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 
