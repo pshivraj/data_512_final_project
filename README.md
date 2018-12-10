@@ -54,7 +54,7 @@ conda install -c mikesilva xgboost
 Run Jupyter notebook ```jupyter notebook ``` and open file ```Final_Project.ipynb```
 
 # License
-This assignment code and Data is released under the [MIT License](https://github.com/pshivraj/data-512-a2/blob/master/LICENSE).
+This assignment code and Data is released under the [MIT License](https://github.com/pshivraj/data_512_final_project/blob/master/LICENSE).
 
 ### Licence of the Data
 The primary data for this analysis comes from Dataverse licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/).
