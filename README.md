@@ -31,6 +31,14 @@ My second question was around having made inferences using decision trees, how c
 Based on the plots shown below we can see that Lightgbm, Random forest and Xgboost all of which are optimized to have similar model score produced slightly varying chart when it came to variable importance and thus making model interpretability difficult.
 For Lightgbm : [Games played, WAR and Acquired] are top features For Xgboost : [Position, Age, Games played] are top features For Random Forest : [Games played, WAR, Position] are top features.
 
+
+| Model         | Performance(MAE)   |
+|---------------|--------------------|
+| Lightgbm      | 0.55  |
+| Xgboost       | 0.60  |
+| Random Forest | 0.56  |
+
+
 Thus using one single model to make interpretation might not be conclusive and the process might require building similar models and making conclusions based on the intersection of the results.
 
 Light gbm                
