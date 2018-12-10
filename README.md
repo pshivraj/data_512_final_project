@@ -1,5 +1,8 @@
-# data_512_final_project
-Data 512 Final project
+# Data 512 Final Project
+
+Purshottam Shivraj
+
+University of Washington
 
 ## Introduction
 
