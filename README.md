@@ -53,6 +53,86 @@ conda install -c mikesilva xgboost
 
 Run Jupyter notebook ```jupyter notebook ``` and open file ```Final_Project.ipynb```
 
+## Data
+
+The primary data for this analysis comes from [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZUMXXL) in the form of zipped files from the above-mentioned link as dataverse_files.zip .
+
+Contract Data: These are present in the form of CSV files for each year 2012 till 2015. These are present as a set of files following the nomenclature: [year]_Contract_Data.csv
+
+WAR Data: WAR is defined as Wins Above Replacement which means A single number that presents the number of wins the player added to the team above what a replacement player (think AAA or AAAA) would add. This definition is taken from [Baseball Reference](https://www.baseball-reference.com/leagues/MLB/2012-value-batting.shtml). These are present as a set of files following the nomenclature: IMPORTABLE_leagues_MLB_[year]-value-batting_players_value_batting.csv
+
+### Contract Data
+
+This data contains player-specific information. Each player attributes including the preferred position of play, I am planning to use  transfer salary and Age attribute of the data from this data and join with other data-set on ```Player```(name) to generate final data set.
+
+The Data is available in file ```Contract Data.zip``` as excel workbook for each year starting 2012 till 2015, with each file around ~50KB in file size making it 200KB in total containing information for 776 players.
+
+Following is the Data dictionary for the data-set:
+
+| Feature    |  Data_type |  Description |
+|---|---|---|
+| PLAYER  | text  | Player's names  |
+| POS   | text  | This variable indicates each player’s position as an abbreviation  |
+| AGE  | int  | This variable indicates the age of a player at the conclusion of the season. Its units are years  |
+| STATUS  | text  | This variable indicates a player’s contractual status and can be either Signed, FA (free agent), or Retired  |
+| 2012 TEAM  | text  | Team for which the player was affiliated to in year 2012  |
+| NEW TEAM  | text  | New team with which the player is contracted  |
+|  YRS |  int | This variable indicates the length of a player’s contract. It is measured in years   |
+|  RK | int  | Ranked  |
+|  DOLLARS | int  | This variable indicates the total amount of money the contract is worth and is measured in dollars  |
+
+### WAR Data
+
+This data contains player-specific information. This data is pretty exhaustive in terms of players gameplay and contribution towards teams performance. Though it has a lot of performance metric to judge players contribution towards a team victory, I am planning to use
+```WAR``` Wins Above Replacement as a criterion to measure players performance metrics and would try to analyze it with ```Race``` data to see how fair is the salary structure.
+
+The Data is available in file ```Original Data.zip``` as excel workbook for each year starting 2010 till 2015, with each file around ~200KB in file size making it 1.2MB in total containing information for 1251 players.
+
+Following is the Data dictionary for the data-set:
+
+| Feature    |  Data_type |  Description |
+|---|---|---|
+| Name  | text  | Player's names   |
+| Age   | text  | This variable indicates the age of a player at the conclusion of the season. Its units are years  |
+| Tm  | int  | Team Name  |
+| G  | text  | Games Played or Pitched  |
+| PA  | text  | Plate Appearances  |
+| Rbat  | text  | Runs Batting  |
+|  Rbaser |  int | Runs from Baserunning  |
+|  Rdp | int  |  Runs Grounded into Double Plays |
+|  Rfield | int  | Runs from Fielding |
+| Rpos  | text  | Runs from Positional Scarcity  |
+| RAA  | text  | Runs better than Avg  |
+| WAA  | text  | Wins Above Avg |
+|  Rrep |  int | Runs from Replacement Level  |
+|  RAR | int  | Runs above Replacement Level  |
+|  WAR | int  | Wins Above Replacement  |  
+| waaWL%  | text  | Win-Loss% w/ Avg. Team  |
+| 162WL%  | text  | Win-Loss% w/ Avg. Team Season |
+| oWAR  | text  | Offensive Wins Above Replacement (everything but Fielding) |
+|  dWAR  |  int |  Defensive Wins Above Replacement for position players |
+|  oRAR  | int  | Offensive Runs above Replacement Level |
+|  Salary | int  | This variable indicates the total salary measured in dollars  | 
+|  Acquired  |  int | How was player transfer took place  |
+|  Pos Summary  | int  | Fielding position for the player  |
+
+For a more detailed description for the fields, one can lookup from glossary section - [Baseball-reference](https://www.baseball-reference.com/leagues/MLB/2015-value-batting.shtml).
+
+### Race Data
+
+This data contains the player's race information. I would be joining this data with Contract Data and WAR data to create my final data-set
+
+The Data is available in file ```Original Data.zip``` as excel workbook as ```Player_race.xlsx``` 
+
+Following is the Data dictionary for the data-set:
+
+| Feature    |  Data_type |  Description |
+|---|---|---|
+| Name  | text  | Player's names   |
+| Race   | text  | This variable indicates the race of a player   |
+
+Race abbreviation mapping - ```“A” for Asian, “B” for black, “H” for Hispanic, and “W” for white```.
+
 # License
 This assignment code and Data is released under the [MIT License](https://github.com/pshivraj/data_512_final_project/blob/master/LICENSE).
 
