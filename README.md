@@ -60,6 +60,8 @@ Run Jupyter notebook ```jupyter notebook ``` and open file ```Final_Project.ipyn
 ## Data
 
 The primary data for this analysis comes from [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZUMXXL) in the form of zipped files from the above-mentioned link as dataverse_files.zip .
+Unzipping all the zipped files would create respective folder for each data sources. For our analysis we are interested in data folder
+```Original Data```  which contains the files needed for the analysis.
 
 Contract Data: These are present in the form of CSV files for each year 2012 till 2015. These are present as a set of files following the nomenclature: [year]_Contract_Data.csv
 
