@@ -34,14 +34,14 @@ Xgboost
 To make the results reproducible I have included all the steps required for data cleaning in the notebook: ```Final_project.ipynb```
 . All the raw files are available in the repo's ```data``` folder alongside processed data files are stored in ```final_data folder```. Alongside this all the graphs/images are also shared in the ```image``` folder.
 
-
+This project is is tested on Windows 10 machine and is produced using Anaconda Environment using Anaconda launcher.
 ```
-git clone https://github.com/pshivraj/data-512-a2.git
-conda create -n bias_in_data
-source activate bias_in_data
+git clone https://github.com/pshivraj/data_512_final_project
+conda create -n final_project
+conda activate final_project
 ```
 
-Install necessary libraries before 
+Install necessary libraries before running the notebook.
 
 ```
 conda install -c anaconda xlrd 
