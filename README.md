@@ -1,4 +1,4 @@
-# Data 512 Final Project
+# Analyzing Wages in Major League Baseball.
 
 Purshottam Shivraj
 
