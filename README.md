@@ -14,10 +14,24 @@ In this Project, I would like to get a better understanding of how the wages of 
 My research questions is around a persons race and his salary structure in MLB. There is ever increasing talks around steep drop in African-american players in MLB so I want to explore if disparity in wages is a reason for this decline. On a more Human centred context if such disparity exists this would potentially affect future/aspiring African-american youth/kids to play the beautiful game.
 
 **RQ1: What are the most significant factors in determining a players wage in MLB.**
+
+The first question I am looking to answer is to infer the most important variables that determine the wages of MLB players.
+For this I trained a Lightgbm model and plotted the variable importance for the model run, based on the model run Various Player statistics variables alongside Number of Games played, Year, WAR came out to be most important variables with Race being considered less important in determining the player's wages. One potential correlation that might exist in the analysis is between Race and number of games played which needs to be further analyzed and is not covered in the project.
+
+Following graph shows Variable importance plot for all variables combined.
+
 ![Lightgbm performance](https://github.com/pshivraj/data_512_final_project/blob/master/images/lgb_performance.PNG)
+
+After dropping the performance statistics we can see Race comes in the middle when it comes to variable importance plots.
 ![Lightgbm non- performance](https://github.com/pshivraj/data_512_final_project/blob/master/images/lgb_non_performance.PNG)
 
 **RQ2: How consistently interpretable are these results across algorithms with similar perfromance.**
+
+My second question was around having made inferences using decision trees, how consistent is the inference chart when we compare difference tree-based models optimized to similar performance score.
+Based on the plots shown below we can see that Lightgbm, Random forest and Xgboost all of which are optimized to have similar model score produced slightly varying chart when it came to variable importance and thus making model interpretability difficult.
+For Lightgbm : [Games played, WAR and Acquired] are top features For Xgboost : [Position, Age, Games played] are top features For Random Forest : [Games played, WAR, Position] are top features.
+
+Thus using one single model to make interpretation might not be conclusive and the process might require building similar models and making conclusions based on the intersection of the results.
 
 Light gbm                
 :-------------------------:
@@ -30,7 +44,6 @@ Random Forest
 Xgboost            
 :-------------------------:
 ![Xgboost](https://github.com/pshivraj/data_512_final_project/blob/master/images/xgboost.PNG)
-
 
 
 ## Reproducibility
