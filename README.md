@@ -162,4 +162,19 @@ The data-set can be downloaded from [Dataverse](https://dataverse.harvard.edu/da
 
 Additional Data ```Data/state_race_distribution.xlsx``` and ```state_race_data.xlsx``` taken from [ wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_United_States) and [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Baseball/Team_abbreviations) licnesed under [Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
+# Other Resources
+https://www.usatoday.com/story/sports/mlb/2018/09/27/mlb-attendance-down-biggest-slide-decade/1441318002/
 
+https://www.statista.com/statistics/193421/regular-season-attendance-in-the-mlb-since-2006/
+
+https://www.forbes.com/sites/leighsteinberg/2018/04/17/why-have-african-american-players-disappeared-in-mlb/#40b67ff750df
+
+https://www.usnews.com/opinion/op-ed/articles/2017-07-10/3-reasons-for-the-declining-percentage-of-black-baseball-players-in-the-mlb
+
+https://www.fangraphs.com/tht/searching-for-racial-earnings-differentials-in-major-league-baseball/
+
+https://www.rand.org/pubs/research_memoranda/RM6227.html
+
+https://digitalcommons.iwu.edu/cgi/viewcontent.cgi?article=1022&context=econ_honproj
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZUMXXL
