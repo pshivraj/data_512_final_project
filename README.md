@@ -19,8 +19,9 @@ My research questions is around a persons race and his salary structure in MLB. 
 
 To make the results reproducible I have included all the steps required for data cleaning in this notebook and additionally provided initial setup for the workflow in the Readme.md. All the raw files are available in the repo's ```data``` folder alongside processed data files as well. Alongside this all the graphs/images are also shared in the ```image``` folder.
 
-# conda install -c anaconda xlrd 
-# conda install -c anaconda matplotlib 
-# conda install -c conda-forge lightgbm 
-# conda install -c anaconda scikit-learn 
-# conda install -c mikesilva xgboost
+```conda install -c anaconda xlrd 
+conda install -c anaconda matplotlib 
+conda install -c conda-forge lightgbm 
+conda install -c anaconda scikit-learn 
+conda install -c mikesilva xgboost
+```
