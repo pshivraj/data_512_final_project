@@ -1,0 +1,163 @@
+Rk,Name,Age,Tm,G,PA,Rbat,Rbaser,Rdp,Rfield,Rpos,RAA,WAA,Rrep,RAR,WAR â–¾,waaWL%,162WL%,oWAR,dWAR,oRAR,Salary,Acquired,Pos Summary,year,Players,Race
+12,Michael Bourn,29,ATL,155,703,0,7,3,24,3,38,4.1,20,58,6.1,0.526,0.525,3.3,3.0,34,6845000.0,Traded,8,2012,Michael Bourn,non-white
+16,Torii Hunter,36,LAA,140,584,19,5,0,15,-6,34,3.5,22,55,5.7,0.525,0.522,4.2,0.9,40,18000000.0,Free Agency,9/D,2012,Torii Hunter,non-white
+30,Melky Cabrera,27,SFG,113,501,34,0,2,0,-5,31,3.2,15,45,4.7,0.529,0.52,4.6,-0.5,45,6000000.0,Traded,79,2012,Melky Cabrera,non-white
+36,Adam LaRoche,32,WSN,154,647,21,-1,0,8,-9,20,2.2,20,40,4.1,0.514,0.513,3.1,0.0,32,8000000.0,Free Agency,3,2012,Adam LaRoche,white
+39,Angel Pagan,30,SFG,154,659,15,4,2,-6,3,19,2.0,20,39,4.0,0.513,0.512,4.5,-0.3,45,4850000.0,Free Agency,8/D,2012,Angel Pagan,non-white
+43,Josh Hamilton,31,TEX,148,636,26,1,1,-9,-3,15,1.6,24,39,3.9,0.511,0.51,5.0,-1.2,48,13750000.0,Traded,87D/9,2012,Josh Hamilton,white
+49,Nick Swisher,31,NYY,148,624,18,-1,1,5,-8,14,1.5,23,38,3.8,0.51,0.509,3.4,-0.4,33,10250000.0,Traded,93D,2012,Nick Swisher,white
+79,A.J. Pierzynski,35,CHW,135,520,9,-2,1,-5,8,11,1.2,20,30,3.1,0.508,0.507,3.7,0.2,36,6000000.0,Free Agency,2/D,2012,A.J. Pierzynski,white
+99,Jeff Keppinger,32,TBR,115,418,11,0,-1,3,-2,10,1.1,16,26,2.6,0.51,0.507,2.4,0.1,23,1525000.0,Free Agency,534D,2012,Jeff Keppinger,white
+100,Shane Victorino,31,2TM,154,666,-6,5,3,4,0,6,0.6,20,26,2.6,0.504,0.502,2.0,0.5,22,9500000.0,Traded,1989-07-01 00:00:00,2012,Shane Victorino,non-white
+134,Marco Scutaro,36,2TM,156,683,2,4,1,-10,5,1,0.1,20,22,2.1,0.501,0.499,3.0,-0.5,32,6000000.0,Traded,46,2012,Marco Scutaro,non-white
+142,Juan Pierre,34,PHI,130,439,0,6,2,2,-4,6,0.7,14,20,2.0,0.505,0.504,1.7,-0.2,18,800000.0,Free Agency,7,2012,Juan Pierre,non-white
+143,Cody Ross,31,BOS,130,528,11,0,-2,-2,-6,1,0.1,20,20,2.0,0.501,0.5,2.3,-0.9,22,3000000.0,Free Agency,97D/8,2012,Cody Ross,white
+149,Jonny Gomes,31,OAK,99,333,16,0,0,-2,-7,7,0.7,12,19,1.9,0.507,0.504,2.2,-0.9,21,1000000.0,Free Agency,D7/9,2012,Jonny Gomes,white
+156,Ichiro Suzuki,38,2TM,162,663,-10,3,3,6,-7,-5,-0.5,24,19,1.8,0.497,0.499,1.3,-0.1,13,17000000.0,Traded,97/8D,2012,Ichiro Suzuki,non-white
+159,Mike Napoli,30,TEX,108,417,6,-2,0,-4,2,2,0.3,16,18,1.8,0.502,0.502,2.3,-0.2,22,9400000.0,Traded,23/D,2012,Mike Napoli,white
+164,Kevin Youkilis,33,2TM,122,509,1,-1,-1,0,0,-1,-0.1,19,18,1.7,0.499,0.5,1.8,0.0,18,12250000.0,Amateur Draft,53,2012,Kevin Youkilis,white
+167,Russell Martin,29,NYY,133,485,-3,1,0,-6,7,-1,-0.1,18,18,1.7,0.499,0.5,2.4,0.1,23,7500000.0,Free Agency,2/D,2012,Russell Martin,white
+172,Eric Chavez,34,NYY,113,313,9,-1,-1,-1,-1,4,0.5,12,16,1.6,0.504,0.503,1.7,-0.2,17,900000.0,Free Agency,5D3,2012,Eric Chavez,non-white
+189,Kelly Shoppach,32,2TM,76,245,-1,-1,0,3,4,5,0.5,9,14,1.4,0.507,0.502,1.1,0.7,11,1135000.0,Free Agency,2/D,2012,Kelly Shoppach,white
+223,David Ross,35,ATL,62,196,1,0,-1,0,3,3,0.3,6,9,0.9,0.505,0.502,0.9,0.3,9,1625000.0,Free Agency,2,2012,David Ross,white
+232,Nate Schierholtz,28,2TM,114,269,1,-1,1,2,-3,0,0.0,8,9,0.8,0.5,0.501,0.6,0.0,6,1300000.0,Traded,2016-09-08 00:00:00,2012,Nate Schierholtz,white
+236,Jack Hannahan,32,CLE,105,318,-4,-1,-1,1,2,-3,-0.3,12,8,0.8,0.497,0.498,0.8,0.3,8,1135000.0,Free Agency,1963-05-01 00:00:00,2012,Jack Hannahan,white
+256,Carlos Pena,34,TBR,160,600,-3,-2,-1,0,-8,-15,-1.6,22,8,0.6,0.49,0.49,0.7,-0.9,8,7250000.0,Free Agency,3/D,2012,Carlos Pena,non-white
+259,Dewayne Wise,34,2TM,101,239,-1,2,0,-2,-1,-2,-0.3,9,6,0.6,0.498,0.499,0.9,-0.3,9,700000.0,Free Agency,87/91,2012,Dewayne Wise,non-white
+288,Lance Berkman,36,STL,32,97,4,0,-1,0,-1,2,0.2,3,5,0.5,0.506,0.501,0.5,-0.1,5,12000000.0,Free Agency,3,2012,Lance Berkman,white
+292,Raul Ibanez,40,NYY,130,425,1,0,0,-5,-7,-10,-1.1,16,6,0.5,0.492,0.493,1.1,-1.2,11,1100000.0,Free Agency,7D9,2012,Raul Ibanez,non-white
+293,Nate McLouth,30,2TM,89,298,-6,2,1,0,-2,-5,-0.6,11,6,0.5,0.494,0.499,0.5,-0.3,6,1750000.0,Free Agency,2016-07-08 00:00:00,2012,Nate McLouth,white
+312,Placido Polanco,36,PHI,90,328,-8,-1,1,2,1,-6,-0.6,10,4,0.4,0.493,0.496,0.1,0.4,2,6250000.0,Free Agency,5,2012,Placido Polanco,non-white
+328,Reed Johnson,35,2TM,119,288,-1,0,0,-3,-2,-5,-0.6,9,4,0.3,0.495,0.499,0.6,-0.5,7,1150000.0,Traded,78/9,2012,Reed Johnson,white
+345,Dioner Navarro,28,CIN,24,73,-1,0,0,0,1,0,0.0,2,2,0.2,0.501,0.5,0.2,0.1,2,1175000.0,Free Agency,2,2012,Dioner Navarro,non-white
+355,Maicer Izturis,31,LAA,100,319,-5,3,-2,-8,3,-9,-0.9,12,3,0.2,0.491,0.494,1.1,-0.6,11,3800000.0,Traded,546,2012,Maicer Izturis,non-white
+361,Mark Reynolds,28,BAL,135,538,5,-2,-3,-9,-7,-17,-1.8,20,3,0.2,0.487,0.489,1.2,-1.7,12,7500000.0,Traded,35D,2012,Mark Reynolds,white
+374,Nyjer Morgan,31,MIL,122,322,-12,-2,0,7,-1,-8,-0.8,10,3,0.2,0.493,0.495,-0.6,0.7,-4,2350000.0,Traded,897/D,2012,Nyjer Morgan,non-white
+580,Ian Stewart,27,CHC,55,202,-8,-1,0,3,1,-5,-0.6,6,1,0.0,0.489,0.496,-0.3,0.4,-2,2237000.0,Free Agency,5,2012,Ian Stewart,white
+1157,Stephen Drew,29,2TM,79,327,-9,-2,1,-7,4,-13,-1.4,11,-2,-0.3,0.482,0.496,0.4,-0.3,5,7750000.0,Amateur Draft,6,2012,Stephen Drew,white
+1204,Geovany Soto,29,2TM,99,361,-12,0,-2,-8,6,-16,-1.7,12,-4,-0.5,0.483,0.495,0.3,-0.2,4,4300000.0,Amateur Draft,2,2012,Geovany Soto,non-white
+1247,Delmon Young,26,DET,151,608,-9,-2,-2,-3,-13,-29,-3.1,23,-6,-0.9,0.479,0.481,-0.5,-1.7,-4,6750000.0,Traded,D7,2012,Delmon Young,non-white
+1253,Eric Hinske,34,ATL,91,147,-8,-1,0,-2,-1,-13,-1.4,5,-8,-1.0,0.484,0.491,-0.8,-0.3,-6,1500000.0,Free Agency,3/7D9,2012,Eric Hinske,white
+1254,James Loney,28,2TM,144,465,-18,-2,-3,6,-6,-23,-2.5,15,-8,-1.0,0.483,0.49,-1.7,0.0,-14,6375000.0,Amateur Draft,3,2012,James Loney,non-white
+1276,Ty Wigginton,34,PHI,125,360,-7,-2,0,-12,-4,-25,-2.6,11,-13,-1.5,0.479,0.484,-0.4,-1.7,-1,4000000.0,Purchased,35/7,2012,Ty Wigginton,white
+4,Robinson Cano,30,NYY,160,681,39,1,0,6,3,49,5.4,24,73,7.8,0.532,0.532,7.0,1.2,67,15000000.0,Amateur Free Agent,4/D6,2013,Robinson Cano,non-white
+18,Jacoby Ellsbury,29,BOS,134,636,8,9,0,13,3,33,3.8,20,53,5.7,0.526,0.522,4.1,1.9,40,9000000.0,Amateur Draft,8,2013,Jacoby Ellsbury,white
+30,Marlon Byrd,35,2TM,147,579,26,-2,0,12,-6,30,3.1,19,48,5.0,0.522,0.514,3.7,0.6,36,700000.0,Free Agency,2016-09-08 00:00:00,2013,Marlon Byrd,non-white
+41,Shin-Soo Choo,30,CIN,154,712,39,-1,1,-18,3,24,2.3,21,44,4.3,0.517,0.516,6.5,-1.8,62,7375000.0,Traded,2016-08-07 00:00:00,2013,Shin-Soo Choo,non-white
+50,Juan Uribe,34,LAD,132,426,8,1,0,15,2,26,2.7,14,40,4.1,0.522,0.518,2.5,1.8,25,8000000.0,Free Agency,2016-05-03 00:00:00,2013,Juan Uribe,non-white
+54,Mike Napoli,31,BOS,139,578,17,0,-2,10,-8,17,2.0,21,38,4.0,0.513,0.511,2.8,0.3,28,13000000.0,Free Agency,3/D,2013,Mike Napoli,white
+75,Jhonny Peralta,31,DET,107,448,12,-1,0,0,5,16,1.9,16,32,3.4,0.516,0.511,3.3,0.7,32,6000000.0,Traded,2016-06-07 00:00:00,2013,Jhonny Peralta,non-white
+85,Mark Ellis,36,LAD,126,480,-3,1,1,12,3,14,1.4,16,30,3.0,0.513,0.51,1.7,1.5,18,5250000.0,Free Agency,2016-04-05 00:00:00,2013,Mark Ellis,white
+88,Jarrod Saltalamacchia,28,BOS,121,470,9,0,0,-6,7,10,1.2,17,27,2.9,0.509,0.507,3.4,0.2,33,4500000.0,Traded,2/D,2013,Jarrod Saltalamacchia,white
+96,James Loney,29,TBR,158,598,9,1,-2,4,-8,3,0.6,21,24,2.6,0.502,0.502,2.0,-0.3,21,2000000.0,Free Agency,3/D,2013,James Loney,non-white
+103,Omar Infante,31,DET,118,476,8,-1,1,-5,3,6,0.9,17,24,2.5,0.506,0.504,2.9,-0.1,28,4000000.0,Traded,4,2013,Omar Infante,non-white
+110,Brian McCann,29,ATL,102,402,10,-2,0,-2,6,11,1.0,13,24,2.3,0.512,0.507,2.6,0.3,26,12000000.0,Amateur Draft,2/D,2013,Brian McCann,white
+113,Carlos Beltran,36,STL,145,600,17,1,-1,-6,-6,5,0.3,20,25,2.3,0.504,0.503,3.1,-1.5,31,13000000.0,Free Agency,9/D,2013,Carlos Beltran,non-white
+127,Nick Punto,35,LAD,116,335,-6,2,1,10,4,10,1.1,11,21,2.1,0.51,0.507,1.1,1.5,11,1500000.0,Traded,654,2013,Nick Punto,white
+131,Nelson Cruz,32,TEX,109,456,12,0,-2,-3,-5,3,0.5,16,19,2.1,0.503,0.502,2.3,-0.8,22,10500000.0,Traded,9/D,2013,Nelson Cruz,non-white
+132,Dioner Navarro,29,CHC,89,266,10,-3,0,1,3,12,1.2,9,20,2.0,0.515,0.508,2.0,0.4,19,1750000.0,Free Agency,2/D,2013,Dioner Navarro,non-white
+147,Justin Morneau,32,2TM,152,635,1,-1,0,5,-9,-4,-0.3,22,18,1.9,0.497,0.498,1.2,-0.3,13,14000000.0,Amateur Draft,3D,2013,Justin Morneau,white
+149,Nate McLouth,31,BAL,146,593,-1,3,0,0,-6,-4,-0.2,21,17,1.8,0.497,0.497,1.7,-0.5,17,2000000.0,Free Agency,7/8D,2013,Nate McLouth,white
+155,Rajai Davis,32,TOR,108,360,-5,6,1,6,-4,4,0.5,13,16,1.8,0.503,0.502,1.0,0.3,10,2500000.0,Traded,798/D,2013,Rajai Davis,non-white
+157,Carlos Ruiz,34,PHI,92,341,-2,2,-1,3,5,7,0.6,11,18,1.7,0.508,0.505,1.4,0.9,15,5000000.0,Free Agency,2,2013,Carlos Ruiz,non-white
+162,A.J. Pierzynski,36,TEX,134,529,-4,-3,-1,-3,7,-4,-0.2,19,15,1.6,0.497,0.498,1.8,0.5,18,7500000.0,Free Agency,2D,2013,A.J. Pierzynski,white
+172,Geovany Soto,30,TEX,54,184,4,-2,0,2,3,7,0.8,7,14,1.5,0.514,0.505,1.2,0.6,12,2750000.0,Free Agency,2016-02-05 00:00:00,2013,Geovany Soto,non-white
+186,Kelly Johnson,31,TBR,118,407,-2,-1,1,2,-3,-3,-0.2,15,12,1.2,0.497,0.498,0.9,0.0,10,2450000.0,Free Agency,74D5/3,2013,Kelly Johnson,white
+188,Curtis Granderson,32,NYY,61,245,-1,1,1,3,-2,2,0.4,9,11,1.2,0.504,0.502,0.8,0.2,8,15000000.0,Traded,8D97,2013,Curtis Granderson,non-white
+225,Brian Roberts,35,BAL,77,296,-3,0,-1,0,0,-3,-0.2,11,8,0.8,0.496,0.498,0.7,0.1,8,10000000.0,Amateur Draft,4D,2013,Brian Roberts,white
+297,Willie Bloomquist,35,ARI,48,150,1,0,0,-1,1,0,-0.1,5,5,0.4,0.499,0.5,0.5,-0.1,6,1900000.0,Free Agency,1967-04-01 00:00:00,2013,Willie Bloomquist,white
+300,Brendan Ryan,31,2TM,104,349,-19,1,-1,6,5,-9,-0.8,12,4,0.4,0.491,0.494,-0.4,1.3,-2,3250000.0,Traded,6,2013,Brendan Ryan,white
+302,Franklin Gutierrez,30,SEA,41,151,4,1,0,-6,0,-2,-0.2,5,3,0.4,0.495,0.499,1.0,-0.6,9,7000000.0,Free Agency,98,2013,Franklin Gutierrez,non-white
+303,Raul Ibanez,41,SEA,124,496,13,-1,-1,-19,-6,-14,-1.3,18,3,0.4,0.488,0.491,2.3,-2.6,22,2750000.0,Free Agency,7D/9,2013,Raul Ibanez,non-white
+304,Brayan Pena,31,DET,71,243,-2,-3,0,-3,4,-5,-0.4,9,4,0.4,0.492,0.497,0.6,0.2,7,875000.0,Free Agency,2016-02-03 00:00:00,2013,Brayan Pena,non-white
+350,Adam Rosales,30,2TM,68,166,-7,1,0,0,2,-4,-0.4,6,2,0.2,0.494,0.498,0.2,0.3,2,700000.0,Waivers,64/57,2013,Adam Rosales,white
+359,David Murphy,31,TEX,142,476,-13,-3,0,7,-6,-15,-1.5,17,2,0.2,0.488,0.49,-0.7,0.2,-5,5775000.0,Traded,7D/19,2013,David Murphy,white
+363,J.P. Arencibia,27,TOR,138,497,-24,-2,0,2,8,-16,-1.5,18,2,0.1,0.487,0.489,-0.2,1.2,0,505600.0,Amateur Draft,2/D,2013,J.P. Arencibia,non-white
+365,Eric Chavez,35,ARI,80,254,4,0,0,-10,0,-5,-0.7,8,3,0.1,0.493,0.496,1.3,-1.2,13,3000000.0,Free Agency,5/3D,2013,Eric Chavez,non-white
+374,John Buck,32,2TM,110,431,-5,-1,-1,-10,7,-10,-1.3,14,4,0.1,0.49,0.494,1.3,-0.5,14,6000000.0,Traded,2/D,2013,John Buck,white
+391,Kurt Suzuki,29,2TM,94,316,-11,0,1,-2,5,-7,-0.9,10,3,0.1,0.491,0.494,0.4,0.3,5,6450000.0,Traded,2,2013,Kurt Suzuki,non-white
+930,Garrett Jones,32,PIT,144,440,1,-1,0,-4,-7,-11,-1.4,14,3,0.0,0.491,0.492,0.5,-1.4,7,4500000.0,Free Agency,39/D,2013,Garrett Jones,white
+1103,Kevin Youkilis,34,NYY,28,118,-3,0,0,-2,0,-6,-0.6,4,-1,-0.2,0.479,0.496,0.0,-0.2,1,12000000.0,Free Agency,5/3D,2013,Kevin Youkilis,white
+1121,Chris Young,29,OAK,107,375,-9,1,1,-6,-1,-15,-1.5,13,-2,-0.2,0.485,0.49,0.4,-0.7,5,8500000.0,Traded,897/D,2013,Chris Young,non-white
+1150,Wil Nieves,35,ARI,71,206,-2,-1,-1,-6,3,-8,-0.9,7,-1,-0.3,0.488,0.495,0.5,-0.4,5,800000.0,Free Agency,2/D,2013,Wil Nieves,non-white
+1292,Paul Konerko,37,CHW,126,520,-12,-5,-2,-3,-9,-31,-3.1,19,-12,-1.4,0.473,0.479,-1.2,-1.2,-9,13500000.0,Free Agency,3D,2013,Paul Konerko,white
+1294,Skip Schumaker,33,LAD,125,356,-2,-1,0,-18,-1,-22,-2.6,12,-10,-1.4,0.481,0.485,0.6,-2.2,8,1500000.0,Traded,4789/1D,2013,Skip Schumaker,white
+20,Russell Martin,31,PIT,111,460,22,-2,-2,12,7,38,4.0,15,52,5.5,0.538,0.526,4.2,2.0,40,8500000.0,Free Agency,2/D,2014,Russell Martin,white
+22,Victor Martinez,35,DET,151,641,50,-5,-1,-4,-13,27,3.2,23,50,5.4,0.519,0.518,5.8,-1.6,54,12000000.0,Free Agency,D3/2,2014,Victor Martinez,non-white
+39,Nelson Cruz,33,BAL,159,678,30,-2,-2,3,-11,18,2.3,24,42,4.6,0.512,0.512,4.2,-0.7,39,8000000.0,Free Agency,D79,2014,Nelson Cruz,non-white
+69,Chase Headley,30,2TM,135,531,3,0,-2,13,2,16,1.8,18,34,3.5,0.513,0.505,2.1,1.7,21,10525000.0,Traded,5/3D,2014,Chase Headley,white
+71,Hanley Ramirez,30,LAD,128,512,22,0,0,-9,5,19,1.8,17,35,3.5,0.516,0.513,4.6,-0.6,44,16000000.0,Traded,6/D,2014,Hanley Ramirez,non-white
+75,Pablo Sandoval,27,SFG,157,638,11,-2,-1,4,3,15,1.4,21,36,3.4,0.511,0.51,3.1,0.6,32,8250000.0,Amateur Free Agent,5/D,2014,Pablo Sandoval,non-white
+91,Melky Cabrera,29,TOR,139,621,22,-1,-2,-6,-6,7,1.1,21,28,3.1,0.506,0.505,3.6,-1.1,34,8000000.0,Free Agency,7/9D8,2014,Melky Cabrera,non-white
+115,Adam LaRoche,34,WSN,140,586,17,-2,-1,0,-8,6,0.5,19,26,2.3,0.505,0.504,2.5,-1.0,26,12000000.0,Free Agency,3/D,2014,Adam LaRoche,white
+136,Nick Markakis,30,BAL,155,710,5,-3,0,0,-7,-5,-0.3,24,18,2.0,0.496,0.496,1.8,-0.5,18,15000000.0,Amateur Draft,9/D3,2014,Nick Markakis,white
+193,Michael Cuddyer,35,COL,49,205,13,0,-1,-5,-2,6,0.5,7,12,1.2,0.512,0.504,1.8,-0.9,17,10500000.0,Free Agency,93/5,2014,Michael Cuddyer,white
+207,Ichiro Suzuki,40,NYY,143,385,-4,2,1,1,-5,-4,-0.3,14,10,1.0,0.497,0.497,0.9,-0.2,9,6500000.0,Traded,9/78D,2014,Ichiro Suzuki,non-white
+214,Emilio Bonifacio,29,2TM,110,426,-9,1,1,4,2,-1,-0.4,14,12,1.0,0.499,0.501,0.6,0.6,8,2500000.0,Traded,8/9476D,2014,Emilio Bonifacio,non-white
+217,Colby Rasmus,27,TOR,104,376,0,0,1,-7,1,-5,-0.3,13,9,1.0,0.495,0.497,1.7,-0.5,16,7000000.0,Traded,8/D,2014,Colby Rasmus,white
+226,Asdrubal Cabrera,28,2TM,146,616,-2,3,-1,-17,6,-12,-1.2,21,10,0.9,0.491,0.496,2.7,-1.2,27,10000000.0,Traded,6/D,2014,Asdrubal Cabrera,non-white
+234,Chris Young,30,2TM,111,366,1,0,0,-1,-3,-2,-0.4,12,10,0.8,0.497,0.497,1.0,-0.5,11,7250000.0,Free Agency,78/9,2014,Chris Young,non-white
+239,Delmon Young,28,BAL,83,255,6,1,0,-4,-5,-2,-0.1,9,7,0.8,0.497,0.499,1.2,-0.9,11,2250000.0,Free Agency,D7/9,2014,Delmon Young,non-white
+242,Jed Lowrie,30,OAK,136,566,-6,-2,-2,-10,6,-13,-1.2,20,7,0.8,0.489,0.491,1.7,-0.2,17,5250000.0,Traded,6/D,2014,Jed Lowrie,white
+253,Mark Reynolds,30,MIL,130,433,-5,0,-1,6,-5,-4,-0.7,14,10,0.7,0.496,0.497,0.1,0.0,4,2000000.0,Free Agency,35/9,2014,Mark Reynolds,white
+274,Clint Barmes,35,PIT,48,116,-3,0,0,3,2,2,0.2,4,6,0.6,0.505,0.502,0.2,0.5,3,2000000.0,Free Agency,64/35,2014,Clint Barmes,white
+276,Alex Rios,33,TEX,131,521,-3,-1,0,-3,-6,-13,-1.2,19,6,0.6,0.489,0.491,0.8,-0.8,8,12500000.0,Traded,9D,2014,Alex Rios,non-white
+288,Torii Hunter,38,DET,142,586,7,2,-1,-18,-6,-16,-1.5,21,4,0.5,0.487,0.489,2.3,-2.4,22,14000000.0,Free Agency,9/D,2014,Torii Hunter,non-white
+350,Rickie Weeks,31,MIL,121,286,10,0,0,-17,2,-5,-0.7,9,4,0.2,0.495,0.496,2.2,-1.9,21,11000000.0,Amateur Draft,4/D,2014,Rickie Weeks,non-white
+402,Nick Hundley,30,2TM,83,233,-6,-1,0,-4,4,-7,-0.7,8,1,0.1,0.491,0.497,0.5,0.0,5,4000000.0,Amateur Draft,2,2014,Nick Hundley,white
+499,Daniel Descalso,27,STL,104,184,-3,0,0,-3,2,-4,-0.6,6,2,0.0,0.495,0.497,0.4,-0.3,5,1290000.0,Amateur Draft,465/31,2014,Daniel Descalso,white
+827,Chris Young,35,SEA,1,1,0,0,0,0,0,0,0.0,0,0,0.0,0.489,0.5,0.0,0.0,0,1250000.0,Free Agency,1,2014,Chris Young,non-white
+1046,Chris Denorfia,33,2TM,121,358,-9,1,0,0,-4,-12,-1.4,12,0,-0.2,0.489,0.496,-0.2,-0.5,0,2250000.0,Free Agency,978,2014,Chris Denorfia,white
+1052,David Ross,37,BOS,50,171,-6,0,0,-5,3,-8,-0.9,6,-2,-0.2,0.481,0.494,0.3,-0.1,3,3100000.0,Free Agency,2,2014,David Ross,white
+1066,Billy Butler,28,KCR,151,603,-4,-3,-2,-3,-12,-24,-2.4,22,-2,-0.3,0.482,0.484,-0.1,-1.5,1,8000000.0,Amateur Draft,D3,2014,Billy Butler,white
+1076,Stephen Drew,31,2TM,85,300,-18,-3,1,4,3,-13,-1.3,11,-2,-0.3,0.483,0.495,-0.8,1.0,-6,10100000.0,Free Agency,6,2014,Stephen Drew,white
+1120,Kevin Frandsen,32,WSN,105,236,-9,1,-1,-1,0,-10,-1.2,8,-2,-0.5,0.489,0.493,-0.3,-0.3,-1,900000.0,Free Agency,754/3,2014,Kevin Frandsen,white
+1122,Corey Hart,32,SEA,68,255,-8,0,1,-1,-6,-13,-1.4,9,-4,-0.5,0.478,0.491,-0.4,-0.6,-3,6000000.0,Free Agency,D/937,2014,Corey Hart,white
+1147,Justin Smoak,27,SEA,80,276,-7,0,-1,-4,-4,-15,-1.5,10,-5,-0.6,0.479,0.49,-0.2,-0.7,-1,2637500.0,Traded,3,2014,Justin Smoak,white
+1168,Jonny Gomes,33,2TM,112,321,-5,0,0,-9,-5,-19,-1.9,12,-7,-0.8,0.482,0.493,0.1,-1.3,2,5000000.0,Free Agency,79/D,2014,Jonny Gomes,white
+1170,A.J. Pierzynski,37,2TM,102,362,-12,-1,-1,-11,5,-19,-2.1,13,-7,-0.8,0.479,0.493,0.3,-0.6,4,8250000.0,Free Agency,2/D,2014,A.J. Pierzynski,white
+1183,Kendrys Morales,31,2TM,98,401,-11,-2,-1,-1,-8,-23,-2.4,14,-8,-1.0,0.474,0.492,-1.0,-0.9,-7,7410000.0,Free Agency,D3,2014,Kendrys Morales,non-white
+1192,Alberto Callaspo,31,OAK,127,451,-15,-3,-2,-2,-3,-26,-2.7,16,-9,-1.1,0.477,0.482,-1.0,-0.4,-7,4875000.0,Traded,4D35,2014,Alberto Callaspo,non-white
+10,Jason Heyward,25,STL,154,610,13,6,5,24,-6,43,4.5,20,63,6.5,0.53,0.529,3.8,2.0,39,7800000.0,Traded,98,2015,Jason Heyward,non-white
+11,Yoenis Cespedes,29,2TM,159,676,30,2,0,11,-5,38,4.1,23,61,6.3,0.525,0.513,5.1,0.7,50,10500000.0,Traded,7/D,2015,Yoenis Cespedes,non-white
+22,Chris Davis,29,BAL,160,670,37,-4,1,1,-10,26,2.9,24,50,5.2,0.517,0.517,5.2,-0.9,49,12000000.0,Traded,39D,2015,Chris Davis,white
+39,Justin Upton,27,SDP,150,620,18,4,0,8,-6,24,2.4,20,44,4.4,0.517,0.516,3.5,0.2,36,14500000.0,Traded,7/D,2015,Justin Upton,non-white
+84,Alex Gordon,31,KCR,104,422,10,-1,1,7,-4,12,1.4,15,27,2.8,0.512,0.508,2.1,0.4,20,12500000.0,Amateur Draft,7/D,2015,Alex Gordon,white
+92,Colby Rasmus,28,HOU,137,485,7,2,0,2,-4,7,0.9,17,25,2.6,0.506,0.505,2.4,-0.1,23,8000000.0,Free Agency,789,2015,Colby Rasmus,white
+103,David Freese,32,LAA,121,470,7,0,-1,-2,2,6,0.7,17,22,2.3,0.505,0.504,2.6,0.0,24,6425000.0,Traded,5/D,2015,David Freese,white
+119,Dexter Fowler,29,CHC,156,690,10,0,1,-12,3,2,0.1,21,24,2.2,0.502,0.502,3.5,-1.0,36,9500000.0,Traded,8,2015,Dexter Fowler,non-white
+129,Ian Desmond,29,WSN,156,641,-13,4,1,1,8,1,-0.1,21,22,2.0,0.501,0.5,1.9,0.9,20,11000000.0,Amateur Draft,6,2015,Ian Desmond,non-white
+140,Ben Zobrist,34,2TM,126,535,12,-1,1,-12,-1,-1,0.0,19,18,1.9,0.499,0.5,3.1,-1.3,30,7500000.0,Traded,47/5D9,2015,Ben Zobrist,white
+153,Asdrubal Cabrera,29,TBR,143,551,-2,0,-1,-7,7,-3,-0.2,20,17,1.7,0.498,0.498,2.5,0.0,24,7500000.0,Free Agency,6/D,2015,Asdrubal Cabrera,non-white
+154,Juan Uribe,36,3TM,119,397,1,0,0,2,2,5,0.4,13,18,1.7,0.504,0.502,1.5,0.4,16,6500000.0,Traded,2016-05-04 00:00:00,2015,Juan Uribe,non-white
+158,Rajai Davis,34,DET,112,370,2,-1,0,3,-2,2,0.3,13,16,1.6,0.502,0.501,1.3,0.2,12,5000000.0,Free Agency,879/D,2015,Rajai Davis,non-white
+162,A.J. Pierzynski,38,ATL,113,436,8,-3,-1,-8,7,2,0.2,14,17,1.6,0.502,0.502,2.4,-0.2,25,2000000.0,Free Agency,2/D,2015,A.J. Pierzynski,white
+165,Austin Jackson,28,2TM,136,527,-4,-1,0,-1,2,-4,-0.3,19,15,1.5,0.497,0.498,1.6,0.1,16,7700000.0,Traded,1987-09-01 00:00:00,2015,Austin Jackson,non-white
+174,Daniel Murphy,30,NYM,130,538,4,-2,0,-5,2,-2,-0.3,17,16,1.4,0.499,0.499,2.0,-0.4,21,8000000.0,Amateur Draft,453/D,2015,Daniel Murphy,white
+186,Chris Young,31,NYY,140,356,8,0,-1,-3,-5,-1,-0.1,13,11,1.2,0.499,0.499,1.5,-0.8,14,2500000.0,Free Agency,978/D,2015,Chris Young,non-white
+198,Howie Kendrick,31,LAD,117,495,5,2,-1,-12,3,-3,-0.5,16,13,1.1,0.497,0.498,2.4,-1.0,25,9500000.0,Traded,4,2015,Howie Kendrick,non-white
+202,Mike Napoli,33,2TM,133,469,2,-2,-1,1,-7,-6,-0.6,17,10,1.1,0.495,0.496,0.9,-0.5,9,16000000.0,Free Agency,3/D,2015,Mike Napoli,white
+205,Alexei Ramirez,33,CHW,154,622,-12,-1,-1,-6,8,-12,-1.1,22,10,1.0,0.492,0.492,1.7,0.3,16,10000000.0,Amateur Free Agent,6/D1,2015,Alexei Ramirez,non-white
+210,Gerardo Parra,28,2TM,155,589,4,0,1,-10,-4,-8,-0.9,20,11,1.0,0.494,0.5,2.0,-1.5,21,6237500.0,Traded,98/7,2015,Gerardo Parra,non-white
+214,Alejandro De Aza,31,3TM,114,365,4,1,1,-4,-4,-3,-0.3,13,10,1.0,0.497,0.501,1.4,-0.9,14,5000000.0,Traded,79,2015,Alejandro De Aza,non-white
+217,Geovany Soto,32,CHW,78,210,1,-1,0,-1,4,2,0.2,8,9,1.0,0.502,0.501,1.1,0.3,10,1500000.0,Free Agency,2/D,2015,Geovany Soto,non-white
+222,John Jaso,31,TBR,70,216,10,-2,-1,-1,-5,1,0.2,8,9,0.9,0.502,0.501,1.0,-0.6,10,3175000.0,Traded,D/79,2015,John Jaso,white
+242,Denard Span,31,WSN,61,275,7,2,0,-10,1,0,0.0,8,9,0.8,0.501,0.5,1.8,-1.0,19,9000000.0,Traded,8,2015,Denard Span,non-white
+243,Matt Wieters,29,BAL,75,282,0,-2,0,-3,2,-3,-0.2,10,7,0.8,0.496,0.498,1.1,0.0,10,8300000.0,Free Agency,2D/3,2015,Matt Wieters,white
+247,Dioner Navarro,31,TOR,54,192,-4,-1,1,2,2,0,0.1,7,7,0.7,0.5,0.5,0.5,0.4,5,5000000.0,Free Agency,2D,2015,Dioner Navarro,non-white
+257,Gordon Beckham,28,CHW,100,237,-8,0,-1,5,2,-2,-0.1,8,7,0.7,0.498,0.499,0.2,0.8,2,2000000.0,Free Agency,54/6D,2015,Gordon Beckham,white
+258,Chris Iannetta,32,LAA,92,317,-7,-1,-1,0,5,-4,-0.4,11,7,0.7,0.495,0.497,0.7,0.6,7,5525000.0,Traded,2/3D,2015,Chris Iannetta,white
+306,Brayan Pena,33,CIN,108,367,-8,-1,0,-2,5,-6,-0.8,12,6,0.4,0.494,0.496,0.6,0.3,8,1400000.0,Free Agency,2/3D,2015,Brayan Pena,non-white
+308,Stephen Drew,32,NYY,131,428,-11,0,0,-3,4,-11,-1.1,15,4,0.4,0.491,0.493,0.7,0.2,7,5000000.0,Free Agency,46/5,2015,Stephen Drew,white
+312,Chase Utley,36,2TM,107,423,-14,3,1,0,2,-8,-0.9,14,6,0.4,0.492,0.495,0.4,0.1,6,15000000.0,Amateur Draft,4/3D,2015,Chase Utley,white
+344,Kelly Johnson,33,2TM,111,335,4,-1,0,-7,-2,-7,-0.8,11,4,0.3,0.494,0.498,1.0,-1.0,11,1500000.0,Free Agency,735/94D,2015,Kelly Johnson,white
+355,Darwin Barney,29,2TM,17,30,1,0,0,-1,0,1,0.1,1,2,0.2,0.507,0.501,0.3,-0.1,3,2525000.0,Traded,/56,2015,Darwin Barney,white
+368,Cliff Pennington,31,2TM,105,249,-14,1,0,5,2,-6,-0.6,8,3,0.2,0.494,0.498,-0.4,0.8,-2,3275000.0,Traded,654/7,2015,Cliff Pennington,white
+396,Pedro Alvarez,28,PIT,150,491,6,0,2,-14,-6,-12,-1.4,16,4,0.1,0.491,0.492,1.6,-2.3,18,5750000.0,Amateur Draft,3/D,2015,Pedro Alvarez,non-white
+405,Chris Young,36,KCR,3,4,0,0,0,0,1,1,0.1,0,1,0.1,0.539,0.501,0.1,0.0,1,675000.0,Free Agency,1,2015,Chris Young,non-white
+1005,Alex Avila,28,DET,67,219,-5,-3,0,-2,1,-8,-0.9,8,0,-0.1,0.486,0.494,0.1,0.0,1,5400000.0,Amateur Draft,23/D,2015,Alex Avila,non-white
+1018,Sean Rodriguez,30,PIT,139,240,-6,-1,0,4,-4,-7,-0.8,8,1,-0.1,0.494,0.495,-0.5,-0.1,-3,1900000.0,Free Agency,379/546,2015,Sean Rodriguez,non-white
+1139,Steve Pearce,32,BAL,92,325,-4,1,-1,-7,-3,-15,-1.5,12,-3,-0.4,0.483,0.49,0.4,-1.0,4,3700000.0,Free Agency,734/9D,2015,Steve Pearce,white
+1182,Jeff Mathis,32,MIA,32,103,-7,-1,0,-1,2,-8,-0.9,3,-4,-0.5,0.474,0.495,-0.4,0.1,-3,1500000.0,Free Agency,2,2015,Jeff Mathis,white
+1193,Mark Reynolds,31,STL,140,432,-6,-2,-1,-3,-6,-17,-2.0,14,-3,-0.6,0.486,0.488,-0.3,-1.0,0,2000000.0,Free Agency,35/7D49,2015,Mark Reynolds,white
+1242,Mike Aviles,34,CLE,98,317,-15,-1,-3,-4,0,-23,-2.4,11,-11,-1.3,0.475,0.485,-0.9,-0.3,-7,3500000.0,Traded,7564/8D9,2015,Mike Aviles,non-white

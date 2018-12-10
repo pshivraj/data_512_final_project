@@ -1,0 +1,369 @@
+Players,POS,Age,Status,team,years_contract,rk,dollars,year,annual_income
+Mike Adams,RP,38,Agreed,Phillies,2,39,12000000,2012,6000000.0
+Jeremy Affeldt,RP,37,Signed,Giants,3,NR,18000000,2012,6000000.0
+Scott Baker,SP,35,Signed,Cubs,1,NR,5500000,2012,5500000.0
+Lance Berkman,DH,40,Signed,Rangers,1,NR,11000000,2012,11000000.0
+Joe Blanton,RP,35,Signed,Angels,2,43,15000000,2012,7500000.0
+Michael Bourn,CF,33,Signed,Indians,4,4,48000000,2012,12000000.0
+Jonathan Broxton,RP,32,Signed,Reds,3,41,21000000,2012,7000000.0
+Sean Burnett,RP,34,Agreed,Angels,2,NR,8000000,2012,4000000.0
+Melky Cabrera,LF,32,Signed,Blue Jays,2,17,16000000,2012,8000000.0
+Eric Chavez,3B,38,Signed,Diamondbacks,1,NR,3000000,2012,3000000.0
+Randy Choate,RP,41,Signed,Cardinals,3,NR,7500000,2012,2500000.0
+Bartolo Colon,SP,43,Agreed,Athletics,1,NR,3000000,2012,3000000.0
+Kevin Correia,SP,36,Signed,Twins,2,NR,10000000,2012,5000000.0
+Ryan Dempster,SP,39,Agreed,Red Sox,2,11,26500000,2012,13250000.0
+Stephen Drew,2B,33,Agreed,Red Sox,1,42,9500000,2012,9500000.0
+Scott Feldman,RP,33,Signed,Cubs,1,NR,6000000,2012,6000000.0
+Jeff Francis,RP,35,Signed,Rockies,1,NR,1500000,2012,1500000.0
+Jason Frasor,RP,39,Signed,Rangers,1,NR,1500000,2012,1500000.0
+Kyuji Fujikawa,RP,36,Signed,Cubs,2,NR,9000000,2012,4500000.0
+Jonny Gomes,LF,35,Signed,Red Sox,2,44,10000000,2012,5000000.0
+Mike Gonzalez,RP,38,Signed,Brewers,1,NR,2225000,2012,2225000.0
+Tom Gorzelanny,RP,34,Agreed,Brewers,2,NR,5700000,2012,2850000.0
+Zack Greinke,SP,33,Signed,Dodgers,6,1,147000000,2012,24500000.0
+Jason Grilli,RP,40,Signed,Pirates,2,NR,6750000,2012,3375000.0
+Jeremy Guthrie,SP,37,Signed,Royals,3,26,25000000,2012,8333333.333333333
+Josh Hamilton,LF,35,Signed,Angels,5,3,123000000,2012,24600000.0
+Jack Hannahan,3B,36,Signed,Reds,2,NR,4000000,2012,2000000.0
+Dan Haren,SP,36,Signed,Nationals,1,7,13000000,2012,13000000.0
+Roberto Hernandez,SP,36,Signed,Rays,1,NR,3250000,2012,3250000.0
+Eric Hinske,1B,39,Signed,Diamondbacks,1,NR,1350000,2012,1350000.0
+J.P. Howell,RP,33,Signed,Dodgers,1,NR,2850000,2012,2850000.0
+Torii Hunter,RF,41,Signed,Tigers,2,18,26000000,2012,13000000.0
+Raul Ibanez,RF,44,Signed,Mariners,1,NR,2750000,2012,2750000.0
+Hisashi Iwakuma,SP,35,Signed,Mariners,2,19,14000000,2012,7000000.0
+Maicer Izturis,2B,36,Signed,Blue Jays,3,NR,10000000,2012,3333333.3333333335
+Edwin Jackson,SP,33,Signed,Cubs,4,8,52000000,2012,13000000.0
+Reed Johnson,LF,39,Signed,Braves,1,NR,1750000,2012,1750000.0
+Jair Jurrjens,SP,30,Agreed,Orioles,1,NR,1500000,2012,1500000.0
+Jeff Karstens,SP,34,Agreed,Pirates,1,NR,2500000,2012,2500000.0
+Jeff Keppinger,2B,36,Signed,White Sox,3,40,12000000,2012,4000000.0
+Hiroki Kuroda,SP,41,Signed,Yankees,1,5,15000000,2012,15000000.0
+John Lannan,SP,32,Signed,Phillies,1,NR,2500000,2012,2500000.0
+Adam LaRoche,DH,37,Agreed,Nationals,2,16,24000000,2012,12000000.0
+Francisco Liriano,SP,33,Agreed,Pirates,1,35,1000000,2012,1000000.0
+James Loney,1B,32,Signed,Rays,1,NR,2000000,2012,2000000.0
+Ryan Ludwick,LF,38,Agreed,Reds,2,27,15000000,2012,7500000.0
+Ryan Madson,RP,36,Agreed,Angels,1,21,3500000,2012,3500000.0
+Jason Marquis,SP,38,Signed,Padres,1,NR,3000000,2012,3000000.0
+Russell Martin,C,33,Signed,Pirates,2,36,17000000,2012,8500000.0
+Brandon McCarthy,SP,33,Agreed,Diamondbacks,2,22,15500000,2012,7750000.0
+Nate McLouth,LF,35,Agreed,Orioles,1,NR,2000000,2012,2000000.0
+Nyjer Morgan,CF,36,Signed,Japan,1,NR,1600000,2012,1600000.0
+Brett Myers,SP,36,Signed,Indians,1,NR,7000000,2012,7000000.0
+Hiroyuki Nakajima,SS,34,Signed,Athletics,2,NR,6500000,2012,3250000.0
+Mike Napoli,1B,35,Agreed,Red Sox,1,13,5000000,2012,5000000.0
+Dioner Navarro,C,32,Signed,Cubs,1,NR,1175000,2012,1175000.0
+Angel Pagan,LF,35,Signed,Giants,4,20,40000000,2012,10000000.0
+Mike Pelfrey,SP,32,Signed,Twins,1,NR,4000000,2012,4000000.0
+Carlos Pena,1B,38,Signed,Astros,1,NR,2900000,2012,2900000.0
+Joel Peralta,RP,40,Signed,Rays,2,48,6000000,2012,3000000.0
+Oliver Perez,RP,35,Signed,Mariners,1,NR,1500000,2012,1500000.0
+Andy Pettitte,SP,44,Agreed,Yankees,1,NR,12000000,2012,12000000.0
+Juan Pierre,LF,39,Signed,Marlins,1,NR,1600000,2012,1600000.0
+A.J. Pierzynski,C,39,Signed,Rangers,1,15,7500000,2012,7500000.0
+Placido Polanco,3B,41,Signed,Marlins,1,49,2750000,2012,2750000.0
+Mark Reynolds,1B,33,Signed,Indians,1,NR,6000000,2012,6000000.0
+Mariano Rivera,RP,46,Signed,Yankees,1,12,10000000,2012,10000000.0
+Cody Ross,RF,35,Signed,Diamondbacks,3,NR,26000000,2012,8666666.666666666
+David Ross,C,39,Agreed,Red Sox,2,NR,6200000,2012,3100000.0
+Hyun-Jin Ryu,SP,29,Signed,Dodgers,6,37,36000000,2012,6000000.0
+Anibal Sanchez,SP,32,Agreed,Tigers,5,9,80000000,2012,16000000.0
+Nate Schierholtz,RF,32,Signed,Cubs,1,NR,2225000,2012,2225000.0
+Marco Scutaro,2B,41,Signed,Giants,3,32,20000000,2012,6666666.666666667
+Kelly Shoppach,C,36,Signed,Mariners,1,NR,1500000,2012,1500000.0
+Joakim Soria,RP,32,Signed,Rangers,2,31,8000000,2012,4000000.0
+Rafael Soriano,RP,36,Agreed,Nationals,2,14,28000000,2012,14000000.0
+Geovany Soto,C,33,Signed,Rangers,1,NR,2750000,2012,2750000.0
+Ian Stewart,3B,31,Signed,Cubs,1,NR,2000000,2012,2000000.0
+Ichiro Suzuki,RF,43,Signed,Yankees,2,25,13000000,2012,6500000.0
+Nick Swisher,LF,35,Signed,Indians,4,10,56000000,2012,14000000.0
+Andres Torres,LF,38,Agreed,Giants,1,NR,2000000,2012,2000000.0
+Koji Uehara,RP,41,Signed,Red Sox,1,50,4250000,2012,4250000.0
+Melvin Upton Jr.,LF,32,Signed,Braves,5,2,75250000,2012,15050000.0
+Jose Veras,RP,36,Signed,Astros,1,NR,1850000,2012,1850000.0
+Shane Victorino,RF,35,Signed,Red Sox,3,29,39000000,2012,13000000.0
+Ty Wigginton,3B,39,Signed,Cardinals,2,NR,5000000,2012,2500000.0
+Dewayne Wise,CF,38,Signed,White Sox,1,NR,700000,2012,700000.0
+Kevin Youkilis,3B,37,Signed,Yankees,1,24,12000000,2012,12000000.0
+Delmon Young,RF,31,Signed,Phillies,1,45,750000,2012,750000.0
+Matt Albers,RP,33,Signed,Astros,1,NR,2450000,2013,2450000.0
+J.P. Arencibia,C,30,Signed,Rangers,1,NR,1800000,2013,1800000.0
+Bronson Arroyo,SP,39,Signed,Diamondbacks,2,45,23500000,2013,11750000.0
+John Axford,RP,33,Signed,Indians,1,NR,4500000,2013,4500000.0
+Grant Balfour,RP,38,Signed,Rays,2,49,12000000,2013,6000000.0
+Ronald Belisario,RP,33,Signed,White Sox,1,NR,3000000,2013,3000000.0
+Carlos Beltran,DH,39,Signed,Yankees,3,17,45000000,2013,15000000.0
+Joaquin Benoit,RP,39,Signed,Padres,2,42,15500000,2013,7750000.0
+Willie Bloomquist,SS,38,Signed,Mariners,2,NR,5800000,2013,2900000.0
+Mitchell Boggs,SP,32,Signed,White Sox,1,NR,1100000,2013,1100000.0
+John Buck,C,36,Signed,Mariners,1,NR,1000000,2013,1000000.0
+A.J. Burnett,SP,39,Signed,Phillies,1,10,16000000,2013,16000000.0
+Marlon Byrd,RF,39,Signed,Phillies,2,29,16000000,2013,8000000.0
+Robinson Cano,2B,34,Signed,Mariners,10,1,240000000,2013,24000000.0
+Chris Capuano,RP,38,Signed,Red Sox,1,NR,2250000,2013,2250000.0
+Joba Chamberlain,RP,31,Signed,Tigers,1,44,2500000,2013,2500000.0
+Eric Chavez,3B,38,Signed,Diamondbacks,1,NR,3500000,2013,3500000.0
+Bruce Chen,SP,39,Signed,Royals,1,NR,4250000,2013,4250000.0
+Shin-Soo Choo,RF,34,Signed,Rangers,7,5,130000000,2013,18571428.57142857
+Bartolo Colon,SP,43,Signed,Mets,2,15,20000000,2013,10000000.0
+Jesse Crain,RP,35,Signed,Astros,1,40,3250000,2013,3250000.0
+Nelson Cruz,DH,36,Agreed,Orioles,1,23,8000000,2013,8000000.0
+Rajai Davis,CF,36,Signed,Tigers,2,NR,10000000,2013,5000000.0
+Scott Downs,RP,40,Signed,White Sox,1,NR,3750000,2013,3750000.0
+Mark Ellis,2B,39,Signed,Cardinals,1,NR,5250000,2013,5250000.0
+Jacoby Ellsbury,CF,33,Signed,Yankees,7,2,153000000,2013,21857142.85714286
+Scott Feldman,RP,33,Signed,Astros,3,18,30000000,2013,10000000.0
+Gavin Floyd,RP,33,Signed,Braves,1,NR,4000000,2013,4000000.0
+Jason Frasor,RP,39,Signed,Rangers,1,NR,1750000,2013,1750000.0
+Rafael Furcal,2B,39,Signed,Marlins,1,NR,3500000,2013,3500000.0
+Matt Garza,SP,32,Signed,Brewers,4,11,50000000,2013,12500000.0
+Curtis Granderson,RF,35,Signed,Mets,4,13,60000000,2013,15000000.0
+Franklin Gutierrez,RF,33,Signed,Mariners,1,36,1000000,2013,1000000.0
+Jason Hammel,SP,34,Signed,Cubs,1,43,6000000,2013,6000000.0
+Dan Haren,SP,36,Signed,Dodgers,1,22,10000000,2013,10000000.0
+Corey Hart,1B,34,Signed,Mariners,1,48,6000000,2013,6000000.0
+LaTroy Hawkins,RP,43,Signed,Rockies,1,NR,2500000,2013,2500000.0
+Roberto Hernandez,SP,36,Signed,Phillies,1,NR,4500000,2013,4500000.0
+J.P. Howell,RP,33,Signed,Dodgers,2,NR,11250000,2013,5625000.0
+Tim Hudson,SP,41,Signed,Giants,2,21,23000000,2013,11500000.0
+Phil Hughes,SP,30,Signed,Twins,3,NR,24000000,2013,8000000.0
+Raul Ibanez,RF,44,Signed,Angels,1,NR,2750000,2013,2750000.0
+Omar Infante,2B,34,Signed,Royals,4,30,30000000,2013,7500000.0
+Ubaldo Jimenez,SP,32,Signed,Orioles,4,4,48000000,2013,12000000.0
+Josh Johnson,SP,32,Signed,Padres,1,27,8000000,2013,8000000.0
+Kelly Johnson,2B,34,Signed,Yankees,1,38,3000000,2013,3000000.0
+Garrett Jones,RF,35,Signed,Marlins,2,NR,7750000,2013,3875000.0
+Scott Kazmir,SP,32,Signed,Athletics,2,20,22000000,2013,11000000.0
+Paul Konerko,DH,40,Signed,White Sox,1,NR,2500000,2013,2500000.0
+Hiroki Kuroda,SP,41,Signed,Yankees,1,19,16000000,2013,16000000.0
+Boone Logan,RP,32,Signed,Rockies,3,NR,16500000,2013,5500000.0
+James Loney,1B,32,Signed,Rays,3,33,21000000,2013,7000000.0
+Javier Lopez,RP,39,Signed,Giants,3,NR,13000000,2013,4333333.333333333
+Paul Maholm,RP,34,Signed,Dodgers,1,32,1500000,2013,1500000.0
+Carlos Marmol,RP,34,Signed,Marlins,1,NR,1250000,2013,1250000.0
+Brian McCann,C,32,Signed,Yankees,5,8,85000000,2013,17000000.0
+Casey McGehee,3B,34,Signed,Marlins,1,NR,1100000,2013,1100000.0
+Nate McLouth,LF,35,Signed,Nationals,2,NR,10750000,2013,5375000.0
+Luis Mendoza,SP,33,Signed,Japan,2,NR,2000000,2013,1000000.0
+Jose Alberto Molina,RP,25,Signed,Rays,2,NR,4500000,2013,2250000.0
+Justin Morneau,DH,35,Signed,Rockies,2,NR,12500000,2013,6250000.0
+Michael Morse,1B,34,Signed,Giants,1,NR,6000000,2013,6000000.0
+Edward Mujica,RP,32,Signed,Red Sox,2,NR,9500000,2013,4750000.0
+David Murphy,RF,35,Signed,Indians,2,35,12000000,2013,6000000.0
+Mike Napoli,1B,35,Signed,Red Sox,2,12,32000000,2013,16000000.0
+Joe Nathan,RP,41,Signed,Tigers,2,39,20000000,2013,10000000.0
+Dioner Navarro,C,32,Signed,Blue Jays,2,47,8000000,2013,4000000.0
+Wil Nieves,C,39,Signed,Phillies,1,NR,1125000,2013,1125000.0
+Ricky Nolasco,SP,33,Signed,Twins,4,7,49000000,2013,12250000.0
+Eric O'Flaherty,RP,31,Signed,Athletics,2,NR,7000000,2013,3500000.0
+Juan Carlos Oviedo,RP,34,Signed,Rays,1,NR,1500000,2013,1500000.0
+Manny Parra,RP,34,Signed,Reds,2,NR,5500000,2013,2750000.0
+Mike Pelfrey,SP,32,Signed,Twins,2,50,11000000,2013,5500000.0
+Brayan Pena,C,34,Signed,Reds,2,NR,2275000,2013,1137500.0
+Jhonny Peralta,3B,34,Signed,Cardinals,4,16,53000000,2013,13250000.0
+A.J. Pierzynski,C,39,Signed,Red Sox,1,NR,8250000,2013,8250000.0
+Nick Punto,2B,39,Signed,Athletics,1,NR,3000000,2013,3000000.0
+Chad Qualls,RP,38,Signed,Astros,2,NR,6000000,2013,3000000.0
+Brian Roberts,2B,39,Signed,Yankees,1,NR,2000000,2013,2000000.0
+Fernando Rodney,RP,39,Signed,Mariners,2,41,14000000,2013,7000000.0
+Francisco Rodriguez,RP,34,Agreed,Brewers,1,NR,3250000,2013,3250000.0
+Adam Rosales,3B,33,Signed,Rangers,1,NR,750000,2013,750000.0
+Carlos Ruiz,C,37,Signed,Phillies,3,28,26000000,2013,8666666.666666666
+Brendan Ryan,SS,34,Signed,Yankees,2,NR,5000000,2013,2500000.0
+Jarrod Saltalamacchia,C,31,Signed,Marlins,3,14,21000000,2013,7000000.0
+Skip Schumaker,2B,36,Signed,Reds,2,NR,5000000,2013,2500000.0
+Joe Smith,RP,32,Signed,Angels,3,NR,15750000,2013,5250000.0
+Geovany Soto,C,33,Signed,Rangers,1,NR,3050000,2013,3050000.0
+Kurt Suzuki,C,33,Signed,Twins,1,NR,2750000,2013,2750000.0
+Masahiro Tanaka,SP,28,Signed,Yankees,7,NR,155000000,2013,22142857.14285714
+Matt Thornton,RP,40,Signed,Yankees,2,NR,7000000,2013,3500000.0
+Juan Uribe,3B,37,Signed,Dodgers,2,24,15000000,2013,7500000.0
+Jason Vargas,SP,33,Signed,Royals,4,26,32000000,2013,8000000.0
+Jose Veras,RP,36,Signed,Cubs,1,NR,4000000,2013,4000000.0
+Ryan Vogelsong,SP,39,Signed,Giants,1,NR,5000000,2013,5000000.0
+Edinson Volquez,SP,33,Signed,Pirates,1,NR,5000000,2013,5000000.0
+Ryan Webb,RP,30,Signed,Orioles,2,NR,4500000,2013,2250000.0
+Jerome Williams,RP,34,Signed,Astros,1,NR,2100000,2013,2100000.0
+Brian Wilson,RP,34,Signed,Dodgers,1,46,10000000,2013,10000000.0
+Jamey Wright,RP,41,Signed,Dodgers,1,NR,1800000,2013,1800000.0
+Wesley Wright,RP,31,Signed,Cubs,1,NR,1425000,2013,1425000.0
+Kevin Youkilis,3B,37,Signed,Japan,1,NR,4000000,2013,4000000.0
+Chris Young,LF,33,Signed,Mets,1,34,7250000,2013,7250000.0
+Brett Anderson,SP,28,Signed,Dodgers,1,29,10000000,2014,10000000.0
+Norichika Aoki,LF,34,Signed,Giants,1,27,4700000,2014,4700000.0
+Burke Badenhop,RP,33,Signed,Reds,1,NR,1000000,2014,1000000.0
+Clint Barmes,SS,37,Signed,Padres,1,NR,1500000,2014,1500000.0
+Matt Belisle,RP,36,Signed,Cardinals,1,NR,3500000,2014,3500000.0
+Emilio Bonifacio,LF,31,Signed,White Sox,1,43,4000000,2014,4000000.0
+Craig Breslow,RP,36,Signed,Red Sox,1,NR,2000000,2014,2000000.0
+A.J. Burnett,SP,39,Signed,Pirates,1,30,8500000,2014,8500000.0
+Billy Butler,DH,30,Signed,Athletics,3,24,30000000,2014,10000000.0
+Asdrubal Cabrera,SS,31,Signed,Rays,1,16,7500000,2014,7500000.0
+Melky Cabrera,LF,32,Signed,White Sox,3,17,42000000,2014,14000000.0
+Alberto Callaspo,3B,33,Signed,Braves,1,NR,3000000,2014,3000000.0
+Chris Capuano,RP,38,Signed,Yankees,1,NR,5000000,2014,5000000.0
+Joba Chamberlain,RP,31,Signed,Tigers,1,NR,1000000,2014,1000000.0
+Phil Coke,RP,34,Signed,Cubs,1,NR,2250000,2014,2250000.0
+Neal Cotts,RP,36,Signed,Brewers,1,NR,3000000,2014,3000000.0
+Nelson Cruz,DH,36,Signed,Mariners,4,21,57000000,2014,14250000.0
+Michael Cuddyer,LF,37,Signed,Mets,2,46,21000000,2014,10500000.0
+Chris Denorfia,LF,36,Signed,Cubs,1,NR,2600000,2014,2600000.0
+Daniel Descalso,SS,30,Signed,Rockies,2,NR,3600000,2014,1800000.0
+Stephen Drew,2B,33,Signed,Yankees,1,34,5000000,2014,5000000.0
+Zach Duke,RP,33,Signed,White Sox,3,NR,15000000,2014,5000000.0
+Gavin Floyd,RP,33,Signed,Indians,1,NR,4000000,2014,4000000.0
+Kevin Frandsen,2B,34,Signed,Nationals,1,NR,1000000,2014,1000000.0
+Jason Frasor,RP,39,Signed,Royals,1,NR,1800000,2014,1800000.0
+Kyuji Fujikawa,RP,36,Signed,Rangers,1,NR,1100000,2014,1100000.0
+Jonny Gomes,LF,35,Signed,Braves,1,NR,4000000,2014,4000000.0
+Tom Gorzelanny,RP,34,Signed,Tigers,1,NR,1000000,2014,1000000.0
+Luke Gregerson,RP,32,Signed,Astros,3,NR,18500000,2014,6166666.666666667
+Jason Grilli,RP,40,Signed,Braves,2,49,8000000,2014,4000000.0
+Jason Hammel,SP,34,Signed,Cubs,2,31,18000000,2014,9000000.0
+Aaron Harang,SP,38,Signed,Phillies,1,NR,5000000,2014,5000000.0
+Corey Hart,1B,34,Signed,Pirates,1,NR,2500000,2014,2500000.0
+Chase Headley,3B,32,Signed,Yankees,4,9,52000000,2014,13000000.0
+Luke Hochevar,RP,33,Signed,Royals,2,NR,10000000,2014,5000000.0
+Nick Hundley,C,33,Signed,Rockies,2,50,6250000,2014,3125000.0
+Torii Hunter,RF,41,Signed,Twins,1,NR,10500000,2014,10500000.0
+Casey Janssen,RP,35,Signed,Nationals,1,42,5000000,2014,5000000.0
+Jim Johnson,RP,33,Signed,Braves,1,NR,1600000,2014,1600000.0
+Josh Johnson,SP,32,Signed,Padres,1,NR,1000000,2014,1000000.0
+Kyle Kendrick,SP,32,Signed,Rockies,1,48,5500000,2014,5500000.0
+Adam LaRoche,DH,37,Signed,White Sox,2,26,25000000,2014,12500000.0
+Jon Lester,SP,32,Signed,Cubs,6,2,155000000,2014,25833333.333333332
+Colby Lewis,SP,37,Signed,Rangers,1,NR,4000000,2014,4000000.0
+Francisco Liriano,SP,33,Signed,Pirates,3,7,39000000,2014,13000000.0
+Jed Lowrie,2B,32,Signed,Astros,3,20,23000000,2014,7666666.666666667
+Nick Markakis,RF,32,Signed,Braves,4,28,44000000,2014,11000000.0
+Russell Martin,C,33,Signed,Blue Jays,5,8,82000000,2014,16400000.0
+Victor Martinez,DH,37,Signed,Tigers,4,12,68000000,2014,17000000.0
+Justin Masterson,SP,31,Signed,Red Sox,1,35,9500000,2014,9500000.0
+Brandon McCarthy,SP,33,Signed,Dodgers,4,5,48000000,2014,12000000.0
+Kris Medlen,SP,31,Signed,Royals,2,NR,8500000,2014,4250000.0
+Andrew Miller,RP,31,Signed,Yankees,4,23,36000000,2014,9000000.0
+Kendrys Morales,DH,33,Signed,Royals,2,44,17000000,2014,8500000.0
+Brandon Morrow,RP,32,Signed,Padres,1,33,2500000,2014,2500000.0
+Michael Morse,1B,34,Signed,Marlins,2,NR,8000000,2014,4000000.0
+Jason Motte,RP,34,Signed,Cubs,1,NR,4500000,2014,4500000.0
+Pat Neshek,RP,36,Signed,Astros,2,NR,12500000,2014,6250000.0
+Alexi Ogando,RP,33,Signed,Red Sox,1,NR,1500000,2014,1500000.0
+Jake Peavy,SP,35,Signed,Giants,2,18,24000000,2014,12000000.0
+A.J. Pierzynski,C,39,Signed,Braves,1,NR,2000000,2014,2000000.0
+Hanley Ramirez,1B,32,Signed,Red Sox,4,3,88000000,2014,22000000.0
+Colby Rasmus,LF,30,Signed,Astros,1,19,8000000,2014,8000000.0
+Mark Reynolds,1B,33,Signed,Cardinals,1,NR,2000000,2014,2000000.0
+Alex Rios,RF,35,Signed,Royals,1,45,11000000,2014,11000000.0
+David Robertson,RP,31,Signed,White Sox,4,22,46000000,2014,11500000.0
+Francisco Rodriguez,RP,34,Signed,Brewers,2,38,13000000,2014,6500000.0
+Sergio Romo,RP,33,Signed,Giants,2,37,15000000,2014,7500000.0
+David Ross,C,39,Signed,Cubs,2,NR,5000000,2014,2500000.0
+Pablo Sandoval,3B,30,Signed,Red Sox,5,6,95000000,2014,19000000.0
+Ervin Santana,SP,33,Signed,Twins,4,11,55000000,2014,13750000.0
+Max Scherzer,SP,32,Signed,Nationals,7,1,210000000,2014,30000000.0
+James Shields,SP,34,Signed,Padres,4,4,75000000,2014,18750000.0
+Justin Smoak,1B,29,Signed,Blue Jays,1,NR,1000000,2014,1000000.0
+Tim Stauffer,RP,34,Signed,Twins,1,NR,2200000,2014,2200000.0
+Ichiro Suzuki,RF,43,Signed,Marlins,1,NR,2000000,2014,2000000.0
+Yasmany Tomas,RF,26,Signed,Diamondbacks,6,10,68500000,2014,11416666.666666666
+Ryan Vogelsong,SP,39,Signed,Giants,1,NR,4000000,2014,4000000.0
+Edinson Volquez,SP,33,Signed,Royals,2,32,20000000,2014,10000000.0
+Rickie Weeks,LF,34,Signed,Mariners,1,47,2000000,2014,2000000.0
+Chris Young,RP,37,Signed,Royals,1,NR,675000,2014,675000.0
+Chris Young,LF,33,Signed,Yankees,1,40,2500000,2014,2500000.0
+Delmon Young,RF,31,Signed,Orioles,1,NR,2250000,2014,2250000.0
+Matt Albers,RP,33,Signed,White Sox,1,NR,2250000,2015,2250000.0
+Pedro Alvarez,DH,29,Signed,Orioles,1,NR,5750000,2015,5750000.0
+Brett Anderson,SP,28,Signed,Dodgers,1,21,15800000,2015,15800000.0
+Norichika Aoki,LF,34,Signed,Mariners,1,NR,5500000,2015,5500000.0
+Alex Avila,C,29,Signed,White Sox,1,NR,2500000,2015,2500000.0
+Mike Aviles,RF,35,Signed,Tigers,1,NR,2000000,2015,2000000.0
+John Axford,RP,33,Signed,Athletics,2,NR,10000000,2015,5000000.0
+Darwin Barney,2B,31,Signed,Blue Jays,1,NR,1050000,2015,1050000.0
+Antonio Bastardo,RP,31,Signed,Mets,2,NR,12000000,2015,6000000.0
+Gordon Beckham,2B,30,Signed,Braves,1,NR,1250000,2015,1250000.0
+Joe Blanton,RP,35,Signed,Dodgers,1,NR,4000000,2015,4000000.0
+Jerry Blevins,RP,33,Signed,Mets,1,NR,4000000,2015,4000000.0
+Jonathan Broxton,RP,32,Signed,Cardinals,2,NR,7500000,2015,3750000.0
+Asdrubal Cabrera,SS,31,Signed,Mets,2,32,18500000,2015,9250000.0
+Trevor Cahill,RP,28,Signed,Cubs,1,45,4250000,2015,4250000.0
+Yoenis Cespedes,LF,31,Signed,Mets,3,5,75000000,2015,25000000.0
+Wei-Yin Chen,SP,31,Signed,Marlins,5,13,80000000,2015,16000000.0
+Steve Cishek,RP,30,Signed,Mariners,2,NR,10000000,2015,5000000.0
+Tyler Clippard,RP,31,Signed,Diamondbacks,2,NR,12250000,2015,6125000.0
+Bartolo Colon,SP,43,Signed,Mets,1,36,7250000,2015,7250000.0
+Johnny Cueto,SP,30,Signed,Giants,6,9,130000000,2015,21666666.666666668
+Chris Davis,1B,30,Signed,Orioles,7,7,161000000,2015,23000000.0
+Rajai Davis,CF,36,Signed,Indians,1,NR,5250000,2015,5250000.0
+Alejandro De Aza,CF,32,Signed,Mets,1,50,5750000,2015,5750000.0
+Ian Desmond,CF,31,Signed,Rangers,1,19,8000000,2015,8000000.0
+Stephen Drew,2B,33,Signed,Nationals,1,NR,3000000,2015,3000000.0
+Marco Estrada,SP,33,Signed,Blue Jays,2,42,26000000,2015,13000000.0
+Doug Fister,SP,32,Signed,Astros,1,46,7000000,2015,7000000.0
+Gavin Floyd,RP,33,Signed,Blue Jays,1,NR,1000000,2015,1000000.0
+Dexter Fowler,CF,30,Signed,Cubs,1,8,13000000,2015,13000000.0
+David Freese,3B,33,Signed,Pirates,1,NR,3000000,2015,3000000.0
+Yovani Gallardo,SP,30,Signed,Orioles,2,31,22000000,2015,11000000.0
+Alex Gordon,LF,32,Signed,Royals,4,6,72000000,2015,18000000.0
+Zack Greinke,SP,33,Signed,Diamondbacks,6,2,206500000,2015,34416666.666666664
+J.A. Happ,SP,34,Signed,Blue Jays,3,26,36000000,2015,12000000.0
+Jason Heyward,RF,27,Signed,Cubs,8,1,184000000,2015,23000000.0
+Rich Hill,SP,36,Signed,Athletics,1,39,6000000,2015,6000000.0
+Tommy Hunter,RP,30,Signed,Indians,1,NR,2000000,2015,2000000.0
+Chris Iannetta,C,33,Signed,Mariners,1,NR,4250000,2015,4250000.0
+Hisashi Iwakuma,SP,35,Signed,Mariners,1,NR,12000000,2015,12000000.0
+Austin Jackson,CF,29,Signed,White Sox,1,15,5000000,2015,5000000.0
+John Jaso,1B,33,Signed,Pirates,2,NR,8000000,2015,4000000.0
+Kelly Johnson,2B,34,Signed,Braves,1,NR,2000000,2015,2000000.0
+Scott Kazmir,SP,32,Signed,Dodgers,3,10,48000000,2015,16000000.0
+Shawn Kelley,RP,32,Signed,Nationals,3,49,15000000,2015,5000000.0
+Howie Kendrick,LF,33,Signed,Dodgers,2,14,20000000,2015,10000000.0
+Ian Kennedy,SP,31,Signed,Royals,5,27,70000000,2015,14000000.0
+John Lackey,SP,38,Signed,Cubs,2,12,32000000,2015,16000000.0
+Mat Latos,RP,28,Signed,White Sox,1,25,3000000,2015,3000000.0
+Mike Leake,SP,29,Signed,Cardinals,5,11,80000000,2015,16000000.0
+Colby Lewis,SP,37,Signed,Rangers,1,NR,6000000,2015,6000000.0
+Mark Lowe,RP,33,Signed,Tigers,2,48,11000000,2015,5500000.0
+Ryan Madson,RP,36,Signed,Athletics,3,NR,22000000,2015,7333333.333333333
+Jeff Mathis,C,33,Signed,Marlins,1,NR,1500000,2015,1500000.0
+Jason Motte,RP,34,Signed,Rockies,2,NR,10000000,2015,5000000.0
+Daniel Murphy,2B,31,Signed,Nationals,3,24,37500000,2015,12500000.0
+Mike Napoli,1B,35,Signed,Indians,1,NR,7000000,2015,7000000.0
+Dioner Navarro,C,32,Signed,White Sox,1,NR,4000000,2015,4000000.0
+Bud Norris,SP,31,Signed,Braves,1,NR,2500000,2015,2500000.0
+Darren O'Day,RP,34,Signed,Orioles,4,34,31000000,2015,7750000.0
+Byung Ho Park,DH,30,Signed,Twins,4,29,12000000,2015,3000000.0
+Gerardo Parra,LF,29,Signed,Rockies,3,30,27500000,2015,9166666.666666666
+Steve Pearce,1B,33,Signed,Rays,1,NR,4750000,2015,4750000.0
+Mike Pelfrey,SP,32,Signed,Tigers,2,38,16000000,2015,8000000.0
+Brayan Pena,C,34,Signed,Cardinals,2,NR,5000000,2015,2500000.0
+Cliff Pennington,2B,32,Signed,Angels,2,NR,3750000,2015,1875000.0
+Oliver Perez,RP,35,Signed,Nationals,2,NR,7000000,2015,3500000.0
+Yusmeiro Petit,RP,31,Signed,Nationals,1,NR,3000000,2015,3000000.0
+A.J. Pierzynski,C,39,Signed,Braves,1,NR,3000000,2015,3000000.0
+David Price,SP,31,Signed,Red Sox,7,3,217000000,2015,31000000.0
+Chad Qualls,RP,38,Signed,Rockies,2,NR,6000000,2015,3000000.0
+Alexei Ramirez,SS,35,Signed,Padres,1,47,4000000,2015,4000000.0
+Colby Rasmus,LF,30,Signed,Astros,1,23,15800000,2015,15800000.0
+Mark Reynolds,1B,33,Signed,Rockies,1,NR,2600000,2015,2600000.0
+Fernando Rodney,RP,39,Signed,Padres,1,NR,2000000,2015,2000000.0
+Sean Rodriguez,1B,31,Signed,Pirates,1,NR,2500000,2015,2500000.0
+Jeff Samardzija,SP,31,Signed,Giants,5,20,90000000,2015,18000000.0
+Yaisel Sierra,SP,25,Signed,Dodgers,6,35,30000000,2015,5000000.0
+Tony Sipp,RP,33,Signed,Astros,3,28,18000000,2015,6000000.0
+Joakim Soria,RP,32,Signed,Royals,3,NR,25000000,2015,8333333.333333333
+Geovany Soto,C,33,Signed,Angels,1,44,2800000,2015,2800000.0
+Denard Span,CF,32,Signed,Giants,3,16,31000000,2015,10333333.333333334
+Justin Upton,LF,29,Signed,Tigers,6,4,132750000,2015,22125000.0
+Juan Uribe,3B,37,Signed,Indians,1,NR,4000000,2015,4000000.0
+Chase Utley,2B,37,Signed,Dodgers,1,37,7000000,2015,7000000.0
+Carlos Villanueva,RP,32,Signed,Padres,1,NR,1500000,2015,1500000.0
+Ryan Vogelsong,SP,39,Signed,Pirates,1,NR,2000000,2015,2000000.0
+Ryan Webb,RP,30,Signed,Rays,1,NR,1000000,2015,1000000.0
+Matt Wieters,C,30,Signed,Orioles,1,17,15800000,2015,15800000.0
+Chris Young,RP,37,Signed,Royals,2,NR,11500000,2015,5750000.0
+Chris Young,LF,33,Signed,Red Sox,2,41,13000000,2015,6500000.0
+Jordan Zimmermann,SP,30,Signed,Tigers,5,18,110000000,2015,22000000.0
+Ben Zobrist,2B,35,Signed,Cubs,4,22,56000000,2015,14000000.0
