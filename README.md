@@ -52,3 +52,13 @@ conda install -c mikesilva xgboost
 ```
 
 Run Jupyter notebook ```jupyter notebook ``` and open file ```Final_Project.ipynb```
+
+# License
+This assignment code and Data is released under the [MIT License](https://github.com/pshivraj/data-512-a2/blob/master/LICENSE).
+
+### Licence of the Data
+The primary data for this analysis comes from Dataverse licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/).
+The data can be downloaded from [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZUMXXL) in the form of zipped files from the above-mentioned link as ```dataverse_files.zip```.
+Additional Data ```Data/state_race_distribution.xlsx``` is taken from [ wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_United_States) licnesed under [Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+
+
